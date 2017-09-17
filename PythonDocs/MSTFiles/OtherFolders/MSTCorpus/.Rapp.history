@@ -1,0 +1,438 @@
+plot(dissim, labels = NULL, hang = 0.1,#
+     axes = TRUE, frame.plot = FALSE, ann = TRUE,#
+     main = "Cluster Dendrogram",#
+     sub = NULL, xlab = NULL, ylab = "Height", ...)
+plot(dissim, labels = NULL, hang = 0.1,#
+     axes = TRUE, frame.plot = FALSE, ann = TRUE,#
+     main = "Cluster Dendrogram",#
+     sub = NULL, xlab = NULL, ylab = "Height",)
+plot(dissim, labels = NULL, hang = 0.1,#
++      axes = TRUE, frame.plot = FALSE, ann = TRUE,#
++      main = "Cluster Dendrogram",#
++      sub = NULL, xlab = NULL, ylab = "Height")
+hcl <- hclust(dissim)
+?hclust
+hclust(dissim, method = "complete", members=NULL)
+hclust(dissim, method = "complete", members=NULL,na.action=na.omit)
+hcl10 <- cutree(hcl,10)
+?hclust
+hcl=hclust(dissim)
+hcl
+hist(sim)
+dissim <- 1-sim
+dissim <- as.dist(dissim)
+hist(dissim)
+hcl <- hclust(dissim)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+sink("SinkfileCluster.txt", split = TRUE)#
+setwd("/Users/chadgevans/Desktop/R")#
+data <- read.table('speechVectors.txt', sep='\t' , header=TRUE , as.is=TRUE , quote='"')#
+descriptions <- paste(data$speaker,data$title,sep=': ') #
+vs <- as.matrix(data[-(1:3)])#
+rownames(vs) <- data$year#
+sim <- vs %*% t(vs)#
+hist(sim)#
+dissim <- 1-sim#
+dissim <- as.dist(dissim)#
+hist(dissim)
+hcl= hclust(dissim)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+sink("SinkfileClusterMSTCorpus.txt", split = TRUE)#
+setwd("/Users/chadgevans/Desktop/R")
+data=read.table('MSTCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])
+dim(data)#
+data[1:10,1:10]#
+vs=as.matrix(data[-c(1:3)])#
+rownames(vs)=data$year#
+sim=vs %*% t(vs)#
+hist(sim)
+dissim=1-sim#
+dissim=as.dist(dissim)#
+hist(dissim)
+hcl=hclust(dissim)
+plot(hcl)
+#
+hcl10=cutree(hcl,10)#
+table(hcl10)
+wcl=agnes(dissim,method="ward")#
+plot(wcl)
+km10=pam(dissim,10)
+km10=pam(dissim,10) #
+plot(km10) # Not very useful for this one#
+km10$clustering#
+#plot(data$year,jitter(km10$clustering))#
+km43=pam(dissim,43) #
+#
+plot(data$year,jitter(km43$clustering))
+plot(data$year,jitter(km43$clustering))#
+clusplot(km10)#
+clusplot(pam(dissim,3))
+source("ClusteringMSTCorpus.R",echo=T)
+colSums(vs[hcl10==1,])
+sort(colSums(vs[hcl10==1,]))
+sort(colSums(vs[hcl10==2,]))
+source("ClusteringMSTCorpus.R",echo=T)
+class(data)
+data[1:3,1:3]
+?hclust
+hcl=hclust(dissim)
+?hclust
+hcl=hclust(dissim, method="ward")
+plot(hcl)
+#
+dim(data)#
+data[1:10,1:10]#
+vs=as.matrix(data[-c(1:3)])#
+sim=vs %*% t(vs)#
+hist(sim)#
+dissim=1-sim#
+dissim=as.dist(dissim)#
+hist(dissim)
+hclw=hclust(dissim, method="ward")#
+plot(hclw, main="Cluster Dendogram")
+hcls=hclust(dissim, method="single")
+hclw=hclust(dissim, method="ward")#
+plot(hcls, main="Cluster Dendogram")
+hclw=hclust(dissim, method="ward")#
+plot(hclw, main="'Ward' Cluster Dendogram")#
+hcls=hclust(dissim, method="single")#
+plot(hcls, main="Single Cluster Dendogram")#
+hclc=hclust(dissim, method="complete")#
+plot(hclc, main="'Complete' Cluster Dendogram")#
+hcl=hclust(dissim, method="average")#
+plot(hcl, main="'Average' Cluster Dendogram")#
+hcl=hclust(dissim, method="mcquitty")#
+plot(hcl, main="'Mcquitty' Cluster Dendogram")#
+hcl=hclust(dissim, method="median")#
+plot(hcl, main="'Median' Cluster Dendogram")#
+hcl=hclust(dissim, method="centroid")#
+plot(hcl, main="'Centroid' Cluster Dendogram")
+wcl=agnes(dissim,method="ward")#
+plot(wcl)
+wcl10=cutree(wcl,10)
+data[wcl10==10,1:2]
+sort(colSums(vs[wcl10==10,]))
+sort(colSums(vs[hcl5==1,]))
+hcl3=cutree(hcl,3)#
+hcl5=cutree(hcl,5)#
+hcl10=cutree(hcl,10)
+sort(colSums(vs[hcl5==1,]))
+sort(colSums(vs[hcl5==3,]))
+sort(colSums(vs[hcl3==3,]))
+sort(colSums(vs[hcl3==2,]))
+sort(colSums(vs[hcl5==2,]))
+hcl5=cutree(hcl,5)
+sort(colSums(vs[hcl5==1,]))
+sort(colSums(vs[hcl5==2,]))
+hcl5=cutree(hcl,5)
+sort(colSums(vs[hcl5==2,]))
+sort(colSums(vs[hcl5==1,]))
+sort(colSums(vs[hcl5==3,]))
+sort(colSums(vs[hcl5==4,]))
+sort(colSums(vs[hcl5==5,]))
+sort(colSums(vs[hcl5==1,]))
+sort(colSums(vs[hcl20==1,]))
+hcl20=cutree(hcl,20)
+sort(colSums(vs[hcl20==1,]))
+sort(colSums(vs[hcl20==2,]))
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+sink("SinkfileCluster.txt", split = TRUE)#
+setwd("/Users/chadgevans/Desktop/R")#
+#
+data=read.table('speechVectors.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])#
+#
+#
+dim(data)#
+data[1:10,1:10]#
+vs=as.matrix(data[-c(1:3)])#
+rownames(vs)=data$year#
+sim=vs %*% t(vs)#
+hist(sim)#
+dissim=1-sim#
+dissim=as.dist(dissim)#
+hist(dissim)
+hcl=hclust(dissim)
+hcl=hclust(dissim)#
+plot(hcl)#
+#
+hcl10=cutree(hcl,10)#
+table(hcl10)#
+#
+plot(data$year,hcl10)#
+colSums(vs[hcl10==1,])
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+sink("SinkfileClusterMSTCorpus.txt", split = TRUE)#
+setwd("/Users/chadgevans/Desktop/R")#
+#
+data=read.table('MSTCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])
+#
+dim(data)#
+data[1:10,1:10]#
+vs=as.matrix(data[-c(1:3)])#
+sim=vs %*% t(vs)#
+hist(sim)#
+dissim=1-sim#
+dissim=as.dist(dissim)#
+hist(dissim)
+wcl=agnes(dissim,method="ward")#
+plot(wcl)#
+wcl10=cutree(wcl,10)#
+data[wcl10==10,1:2]#
+sort(colSums(vs[wcl10==10,]))
+wcl=agnes(dissim,method="ward")#
+plot(wcl)#
+wcl10=cutree(wcl,10)#
+data[wcl10==10,1:2]#
+sort(colSums(vs[wcl10==1,]))
+wcl10=cutree(wcl,10)
+data[wcl10==10,1:2]
+data[wcl10==10,1:7]
+data[wcl10==10,1:10]
+sort(colSums(vs[wcl10==10,]))
+sort(colSums(vs[wcl10==7,]))
+hcl3=cutree(hcl,3)
+km10=pam(dissim,10)
+km43=pam(dissim,43)
+clusplot(pam(dissim,3))
+clusplot(pam(dissim,4))
+clusplot(pam(dissim,10))
+sort(colSums(vs[hcl20==2,]))
+clusplot(pam(dissim,15))
+sort(colSums(vs[km43==10,]))
+sort(colSums(vs[km43==3,]))
+?clusplot
+?hclust
+hcl=hclust(dissim, method="ward")
+plclust(dissim, method="ward")
+plclust(dissim)
+?cluster
+library(cluster)
+?cluster
+??cluster
+cluster
+data=na.omit(data)
+wss <- (nrow(data)-1)*sum(apply(data,2,var))
+for (i in 2:15) wss[i] <- sum(kmeans(data,#
+   centers=i)$withinss)
+fit <- kmeans(mydata, 5)
+fit <- kmeans(data, 5)
+aggregate(mydata,by=list(fit$cluster),FUN=mean)
+aggregate(data,by=list(fit$cluster),FUN=mean)
+fit <- kmeans(data, 5)
+clusplot(data, fit$cluster, color=TRUE, shade=TRUE,#
+   labels=2, lines=0)
+pvclust
+?pvclust
+??pvclust
+source("ClusteringMSTCorpus")
+source("ClusteringMSTCorpus.R",echo=T)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+sink("SinkfileClusterMSTCorpus.txt", split = TRUE)#
+setwd("/Users/chadgevans/Desktop/R")#
+#
+data=read.table('MSTCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])#
+#
+#
+dim(data)#
+data[1:10,1:10]#
+vs=as.matrix(data[-c(1:3)])#
+sim=vs %*% t(vs)#
+hist(sim)#
+dissim=1-sim#
+dissim=as.dist(dissim)#
+hist(dissim)
+?hclust
+hcl=hclust(dissim)
+plot(hcl)
+?hclust
+plot(hcl)
+ plot(hcl, main="Complete Cluster Dendogram")
+ plot(hcl, main="'Complete' Cluster Dendogram")
+?hclust
+plot(hcl, main="'Ward' Cluster Dendogram")
+?hclust
+hcl=hclust(dissim, method="Ward")
+hcl=hclust(dissim, method="simple")
+hcl=hclust(dissim, method ="simple")
+hcl=hclust(dissim, method = "simple")
+hcl=hclust(dissim)
+hcl=hclust(dissim, method = "complete")
+hcl=hclust(dissim, method = "simple")
+hcl=hclust(dissim, method = "average")
+plot(hcl, main="'Average' Cluster Dendogram")
+hcl=hclust(dissim)
+hcl10=cutree(hcl,10)
+table(hcl10)
+hclg=as.matrix(hcl10)
+hclg
+hclg=as.data.frame(hcl10)
+hclg
+table(hcl10)
+names(data)
+data(colnames)
+data$year
+table(hcl10)
+sort(colSums(vs[hcl10==1,]))
+hcl10
+table(hcl10)
+library(xtable)
+xtable(table(hcl10))
+table(hcl10)
+t(hcl10)
+t(table(hcl10))
+a=t(table(hcl10))
+xtable(a)
+4.113+.88+1.09
+2.017+1.369
+1.276+.948
+Word=c(school, pedagogy, teachers,instruction educated, reserach, settlement, students, itinerant, human)#
+score=c(6.083+3.386+2.224+1.307+1.07+.826+.68+.676+.669+.646)
+Word=c(school, pedagogy, teachers,instruction, educated, reserach, settlement, students, itinerant, human)#
+score=c(6.083+3.386+2.224+1.307+1.07+.826+.68+.676+.669+.646)
+Word=c("school", "pedagogy", "teachers","instruction", "educated", "reserach", "settlement", "students", "itinerant", "human")#
+score=c(6.083+3.386+2.224+1.307+1.07+.826+.68+.676+.669+.646)
+t=cbind(Word,score)
+t
+t=as.table(t)
+t
+r=rbind(Word,score)
+r
+class(r)
+score
+Word=c("school", "pedagogy", "teachers","instruction", "educated", "reserach", "settlement", "students", "itinerant", "human")#
+score=c(6.083,3.386,2.224,1.307,1.07,.826,.68,.676,.669,.646)
+t=cbind(Word,score)
+t
+t=as.table(t)
+t
+xtable(t)
+sort(colSums(vs[hcl10==2,]))
+Words=c("encampment","lias","land","farmers","settlement","people","settlers","psychology","government")#
+Score=c(2.301,1.883,1.79,1.47,1.356,1.27,1.213,1.12,1.11)
+t=cbind(Words,Score)
+t
+t=as.table(t)
+t
+xtable(t)
+sort(colSums(vs[hcl10==6,]))
+sort(colSums(vs[hcl10==6,])
+sort(colSums(vs[hcl10==6,]))
+sort(colSums(vs[hcl10==8,]))
+Words=c("Socioterritorial","geography","queen","black","spaces","territory","junior","concept","doer","floristan Fernandes")#
+Score=c(1.524,.85,.33,.222,.206,.184,.171,.158,.138,.125)
+cbind(Words,Score)
+t=cbind(Words,Score)
+t
+t=as.table(t)
+t
+xtable(t)
+wcl=agnes(dissim,method="ward")
+plot(wcl)
+plot(wcl,main="Agnes Dendrogram")
+km43=pam(dissim,43) #
+#
+plot(data$year,jitter(km43$clustering))
+km10=pam(dissim,10)
+clusplot(pam(dissim,3))
+clusplot(pam(dissim,3), main="hi")
+clusplot(pam(dissim,5), main="'Pam' Cluster Plot, 5 clusters")
+sort(colSums(vs[km43==3,]))
+sort(colSums(vs[wcl==3,]))
+sort(colSums(vs[wcl10==3,]))
+wcl=agnes(dissim,method="ward")
+wcl10=cutree(wcl,10)
+sort(colSums(vs[wcl10==3,]))
+table(wcl10)
+a=table(wcl10)
+xtable(a)
+t(a)
+aa=t(a)
+xtable(aa)
+km10=pam(dissim,10)
+km43=pam(dissim,43)
+sort(colSums(vs[km43==3,]))
+sort(colSums(vs[km43==2,]))
+sort(colSums(vs[km10==2,]))
+clusplot(pam(dissim,3))
+vs[km10==2,]
+hcl20=cutree(hcl,20)
+table(hcl20)
+w=table(hcl20)
+t=t(w)
+xtable(t)
+hcl=hclust(dissim)#
+plot(hcl)
+hcl=hclust(dissim, main="'Complete' Cluster Dendrogram")#
+plot(hcl)
+hcl=hclust(dissim)#
+plot(hcl, main="'Complete' Cluster Dendrogram")
+hcl=hclust(dissim, method="average")#
+plot(hcl,main="'Average' Cluster Dendrogram")
+pam(dissim,3)
+km43=pam(dissim,43)
+sort(colSums(vs[km43==3,]))
+?write
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# SuperDoc#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#sink("SinkfileCluster.txt", split = TRUE)#
+setwd("/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTCorpus")#
+#
+dirname="/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTCorpus"#
+listoffiles=dir(dirname)
+for (name in listoffiles){print(name)}
+for (name in listoffiles) { f <- file(name); lines <- readLines(f); print(lines[1]) } # THIS is the YEAR for my docs!!!!
+docList <- sapply(listoffiles,readLines)#
+docList <- sapply(docList,paste,collapse="\n")
+corpus <- paste(docList,collapse='\n\n')
+f = file('SuperDoc.txt')
+writeLines(superdoc,f)
+writeLines(corpus,f)
+close(f)
+f = file('RightHere.txt')
+writeLines(corpus,f)
+close(f)

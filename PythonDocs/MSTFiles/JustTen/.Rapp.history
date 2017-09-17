@@ -1,0 +1,39 @@
+land=c("reform - 387","occupations - 190","rights - 100","redistribution - 41","ownership - 27")#
+politcal=c("parties - 49","economy - 32", "social - 29","system - 26","ecology - 25")#
+rural=c("workers - 227","women - 94","social - 71","labor - 47","areas - 42")#
+work=c("land - 11","MST - 9","together - 6","carried - 4", "done - 4")#
+fight=c("land - 13","agrarian - 2", "capitalism - 2","legal - 2","access - 1")#
+state=c("university - 27","power - 22","level - 14","national - 12","repression - 12")#
+education=c("program - 47","social - 12","health - 10","children - 6","citizenship - 5")#
+feminism=c("left - 2","women - 2", "class - 1","consciousness - 2","movement - 1")#
+health=c('care - 48',"services - 25","movement - 10","system - 10","education - 8")#
+access=c("land - 78","health - 14","credit - 11","care - 10", "public - 7")#
+e=rbind("land","rural","work","fight","state","education","feminism","health","access")
+e
+land
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# SuperDoc#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+# Random.Org Select 10 random integers in 52#
+# 48, 20, 32, 29, 35, 39, 28, 18, 7, 40#
+#
+setwd("/Users/chadgevans/Desktop/PythonDocs/MSTFiles/JustTen/")#
+dirname="/Users/chadgevans/Desktop/PythonDocs/MSTFiles/JustTen"#
+#
+#
+listoffiles=dir(dirname)#
+for (name in listoffiles){print(name)}#
+for (name in listoffiles) { f <- file(name); lines <- readLines(f); print(lines[1]) } # THIS is the YEAR for my docs!!!!#
+#nchar(foo)#
+docList <- sapply(listoffiles,readLines)#
+docList <- sapply(docList,paste,collapse="\n")#
+CorpusEnglish <- paste(docList,collapse='\n\n')#
+f = file('Justten.txt') #
+writeLines(CorpusEnglish,f) #
+close(f)

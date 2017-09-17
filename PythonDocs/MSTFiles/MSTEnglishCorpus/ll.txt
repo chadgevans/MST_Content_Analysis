@@ -1,0 +1,357 @@
+2008
+Anthropology
+Estudos Sociedade e Agricultura
+Agrarian Reform in Brazil: a series of missed appointments between social movements and state policies
+Eric Sabourin
+
+ABSTRACT
+President Luís Ignacio Lula da Silva was elected with the proposal for an important program of agrarian reform, family agriculture support and struggle against poverty. Paradoxically, the support to the agrarian reform seems to have stagnated even with the great influence of landless workers’ movements. How to explain that this seems at first to be a contradiction and, furthermore, how do we evaluate debates within Brazilian society and the federal government on this theme? The article analyzes the tensions, debates, advances and impasses of the past ten years of agrarian reform policy in Brazil looking at the interaction between social movements and public policies.
+Key words: Brazil, agrarian reform, Government Lula, public policies, rural development.
+INTRODUCTION
+The Second National Plan for Agrarian Reform (II Plano Nacional de Reforma Agrária - PNRA), designed by the Worker’s Party (Partido dos Trabalhadores – PT) and the first Lula da Silva administration, was ambitious and aimed at innovation. Its objectives were to rectify property deeds, to make familiar units viable and to support production, instead of limiting itself to distributing land which would take years to be assigned and regulated, which was the main mistake of the Cardoso Administrations’ agrarian policy (Sampaio, 2001; INCRA, 2003). In fact, taking advantage of a depression of the agrarian market in the end of the 1990’s, the Cardoso Administration distributed land to almost 400.000 families, often in precarious conditions of settlement and support to production. Surely, the pace of such distributions was difficult to maintain during the two first years of the Lula Administration.
+The agrarian reform plan was entrusted to the Agrarian Reorganization Bureau (Secretaria de Reorganização Agrária – SRA) – notice the disappearance of the word reform – of the Ministry of Agrarian Development (Ministério do Desenvolvimento Agrário – MDA), which houses the National Institute of Colonization and Agrarian Reform (Instituto Nacional de Colonização e de Reforma Agrária – INCRA). The main debate inside the government around the modalities of agrarian reform was limited to a dispute between granting access to land by means of redistribution (after expropriation) and granting access to land by means of the market (with reimbursement through a special credit line).
+1
+2
+The absence of updated and trustworthy statistics from INCRA doesn’t make the debate any easier. But, apart from the war of numbers between administrations, the opposition and social movements, it is clear that the Lula Administration was not able to implement its Agrarian Reform Plan, in spite of the MDA’s strong alliances with the Landless Workers’ Movement (Movimento dos Trabalhadores Sem Terra –MST) and the National Confederation of the Workers in Agriculture (Confederação Nacional dos Trabalhadores da Agricultura – CONTAG). Actually, more than financing, it were INCRA’s administrative limitations and the legal obstacles to expropriation and distribution of new land which led to the reduction of the government’s predictions.
+This article makes a balance of the agrarian reform in Brazil in 2006 by the end of President Lula’s first mandate. The first part comprises a historic account of the struggles for and attempts at agrarian reform since the 1960’s, interpreted as a succession of missed apointments between the State, society and its movements. It presents the evolution of the results of the last ten years of agrarian reform. The second part lays out the current main political and sociological debates on agrarian reform taking place in the Brazilian society and in the Federal government. It analyses the limitations, the consequences of these issues and proposes some alternate pathways regarding public policies and research subjects. The article concludes by indicating the absence of a true debate on the decentralization and redistribution of land.
+1. AN HISTORY OF MISSED APPOINTMENTS
+1.1. The first attempts
+The first organized movements defending agrarian reform were the Peasant Leagues from the Northeast, which spread across most Brazilian states from 1945 on, with the support of the Brazilian Communist Party (Partido Comunista Brasileiro – PCB). At that time, the struggle for land was inserted in a set of demands for elementary rights in work, health, social security, schooling, and the right to autonomous organization.
+From the beginning, the leagues brought together paid workers from the sugar cane refineries, local inhabitants, sharecroppers and small tenant farmers of precarious status. All of these classes were, in fact, regularly deprived of the land they worked (Garcia Jr, 1990) or of their source of work, according to the needs of the employers or land owners. This was the first missed appointment.
+After the PCB’s interdiction in 1947, the leagues were repressed and only resurfaced in 1954 in the sugar cane zones, in the states of Pernambuco, Paraíba and Alagoas.
+The pressure from the peasant leagues from the Northeast led the João Goulart administration to instate the Rural Worker Statute in 1963, theoretically granting the farmers the same rights which had been acquired by the urban workers (job stability, discharge indemnities). These rights weren’t really observed and resulted in massive dismissals by the employers and, in a reaction to that, led to the constitution of local Rural Workers Unions (Sindicatos dos Trabalhadores Rurais – STR) (box 1).
+Box 1: Celestino P. da Silva, founder of the STR of Campina Grande and Lagoa Seca, Paraíba
+« From the beginning of the peasant leagues in Paraíba, there was a conflict between the Communist Party and the Catholic Church. The idea of creating an STR in the town of Campina Grande came from Don M. Pereira in order to avoid the creation of a union linked to the communists in the Leagues. The communists treated us as «loyal» to the Church. In fact, it was necessary to negotiate a mixed board of directors for the new union in order to establish it, because the members of the league were mostly employees, lawyers and workmen, which didn’t add up to enough farmers, in Campina Grande, to constitute a board with 12 directors. The church had a lot of influence amongst the farmers. The first meetings took place in the parochial room of Campina Grande’s mother church.
+But, during the election of the new board of the STR, after the coup d’état, all members linked to the leagues were arrested. Therefore, I left the board. The Military Police persecuted the ex-members of the leagues and the communists with no mercy. The union got together and the Church helped to liberate a few of them in Campina Grande »
+3
+Interview given on November 10, 1998 – translated.
+The second theme of the Base Reforms of the Goulart administration was the Bill of Agrarian Reform. That is when the military coup d‘état took place in 1964, resulting in a second missed apointment between the peasant organizations and the State. In addition to repression, the military State used new forms of peasant organizations: the Official Rural Workers Unions, to administrate social programs and dissuade them of their original functions.
+In the same way, the first bill of agrarian reform, the Land Statute, published on November, 1964, provisioned compensation to the land owners in case of expropriation (in cash or in deeds of public loans), as well as a colonization program aimed at the lands of the Cerrados and of the Amazon. This was the third divergence of agrarian reform. The first national plan for agrarian reform was defined only in 1985, with the return of the democratic State. Fought against by the employers’ class and the Democratic Ruralist Union (União Democrática Ruralista – UDR), it was never implemented prior to the new constitution of 1988.
+During the conservative modernization phase of the agriculture during the 1970’s and 1980’s, there was a concentration of land. Despite the first distributions of land by the mechanisms of colonization, and therefore, of agrarian reform, this concentration remained unchanged (table 1).
+Table 1: Land Distribution Structure in Brazil (2003)
+Source: Land Distribution Registry - INCRA (August 2003)
+The process was soon taken over again by the creation of the MST in 1985 and its expansion throughout the country, supported by the progressive sector of the catholic church, which, after the end of the base ecclesial communities movement, came together in the shape of the Pastoral Commission of the Land (Comissão Pastoral da Terra – CPT) (Porto Gonçalves, 2005).
+1.2. Successes and limitations of the pro-agrarian reform movements
+Without a strong and determined collective organization of the «landless» using the mechanism of occupation of unproductive land properties for political reasons, as well as technical and financial, the agrarian reform would never have lifted off. It would have been limited to the colonization of pioneering fronts (the Cerrados of the states of Minas Gerais, Goiás, Maranhão, Piauí, and the Amazon forest) or to the distribution of public land. Nevertheless, if the social movements achieved the distribution of land relatively easily, at least until 1998, it has always been much more difficult to negotiate or organize their productive utilization. There are several reasons for this.
+First, the social pressure on obtaining access to land is so strong that it often justifies the allocation of plots of land, even when they have insufficient area to ensure the survival of a family. This kind of
+Surface Categories (ha)
+Number of rural establishments
+% of rural establishments
+Total Area (ha)
+% Area
+A verage Surface (ha)
+< 10
+1.338.711
+31,6
+7.616.113
+1,8
+5,7
+10 to 25
+1.102.999
+26
+18.985.869
+4,5
+17,2
+25 to 50
+684.237
+16,1
+24.141.638
+5,7
+35,3
+50 to 100
+485.482
+11,5
+33.630.240
+8
+69,3
+100 to 500
+482.677
+11,4
+100.216.200
+23,8
+207,6
+500 to 1000
+75.158
+1,8
+52.191.003
+12,4
+694,4
+1000 to 2000
+36.859
+0,9
+50.932.790
+12,1
+1381,8
+> to 2000
+32.264
+0,8
+132.631.509
+31,6
+4110,8
+Total
+4.238.421
+100
+420.345.382
+100
+99,2
+4
+minimal agrarian reform has even the consent of the beneficiaries and their organizations. On the other hand these are seldom the best lots, usually degraded pastures.
+There is in fact a great number of workers and the children of smallholders looking for land in the regions where the employment of agricultural workers is denser. MST’s strategy is exactly that of recruiting as many candidates as possible, including former rural workers and urban workers, in order to constitute a massive organization, capable of enlisting numerous members to put the State under pressure (picture 1 and table 2). According to the agricultural census (IBGE, 1996), there were 2.4 million small land owners with a usable area below the Minimal Settlement Surface (rural module), or in other words 65% of the familiar units. That number jumped to 3.4 million in 1998 (INCRA, 2003: 14).
+The second challenge is related to this public’s characteristics and the misunderstandings they face with the INCRA staff, the technicians and even with the directors of the unions and the MST. Most of those who benefit from the agrarian reform are illiterate or have very little formal education. Usually, those of rural origin had been low-pay, temporary workers, such as sugar cane cutters, wranglers or sharecroppers.
+Picture 1: Evolution of land occupations between 1998 e 2003 Source: CPT (2005)
+Table 2: Land occupation per region (1988-2003) Source: Dataluta, Geography Dept., Unesp.
+Usually, they have neither the knowledge nor the practical experience in mixed crop-livestock farming and, even less, in managing a farm. Seldom have they taken part before of a collective organization experience. In the Northeast, many beneficiaries of the agrarian reform among the former workers from the sugar cane plantations, often treated in semi-slavery conditions1 up until the 1990’s, do not
+Region
+1988-2003
+1st year Cardoso Administration
+1st year Lula Administration
+North
+387
+11
+4
+Northeast
+1402
+58
+44
+Center-west
+639
+26
+7
+Southeast
+672
+38
+30
+South
+549
+16
+18
+T otal
+3649
+147
+103
+1 The women and children more than 7 years old work in the sugar cane harvest in order to ensure the family’s survival.
+5
+have identification documents and ignore their elementary rights regarding work, social security and justice. The State support to the settlements (credit, technical assistance, and training) comes too late or not at all, due to the lack of human resources and conviction inside the public technical assistance services. Ultimately, there is certain historic collusion between the social movements (particularly the MST) and INCRA, in programming and supporting collective settlements or collective production projects, which are usually predestined to failure.
+In fact, the collective dynamic is important. It works relatively well during the stages of vindication, occupation and struggle for obtaining the land, and little or hardly, in the stages of valuation, production, or management of common resources.
+This characteristic becomes so determining that in most settlements the issue of the organization’s social cohesion is the first limiting factor, more than technical or financial problems (Cepeda et al., 2002:12; Mello, 2006:20). The technical and financial difficulties and the matter of support and training may be overcome with time. If they aren’t, once the settling credit is gone, the family, usually, has to abandon the given plot and this is passed on, for free or for some compensation, to another militant of the movement, to a neighbour or to a relative.
+Such practice, prohibited by the agrarian reform laws, is tolerated by INCRA, because it masks the projects’ failures, and also by the unions and the MST, who have lists of candidates waiting for their turn. In fact, these substitutions of beneficiaries take place in transactions as covert as they are illegal.
+Following the same logic, in the Northeastern states, as well as in the Center-west, one finds several settlements in bankrupt farms in which occupation was arranged. Certain land owners contact the “landless” movements and even finance the transportation of the future “occupants” by means of specialized middlemen. Afterwards, the indemnification is also negotiated between INCRA and the owner.
+Therefore, among the beneficiaries, apart from the sharecroppers and tenants who lived at the fazenda, it is not uncommon to find the former manager, foreman, or even one of the former owner’s children. Very often, they take the best land, the farm house and the seats as leaders of the settlement’s association or cooperative, and insure the contacts with INCRA and local politicians.
+1.3. Evolution of the agrarian reform during the Cardoso and Lula Administrations
+The global numbers of the agrarian reform results presented by the MDA must be compared to those by the University of the State of São Paulo (Dataluta, Unesp) and by the social movements (MST e CPT) (tables 3, 4, 5). Those should be considered with the due caution, but they are the most trustworthy in terms of infra-structure and costs.
+The number of settled families was important by the end of both Cardoso Administrations and Lula’s first, coinciding with the presidential election campaigns. In the case of the Lula Administration, the main resources were only put to use by 2004 and 2005.
+Table 3: Number of settled families per region (1979-2002)
+Table 4: Families settled by the agrarian reform between 1985 and 2005
+Region
+Occupations 1988-2003
+Settlements 1979 – 2002 (number of families)
+North
+387
+251.452
+Northeast
+1402
+225.666
+Center-west
+639
+111.865
+Southeast
+672
+38.527
+South
+549
+37919
+T otal
+3649
+665.429
+Source : Dataluta, Geography Dept., Unesp, Presidente Prudente
+6
+Period/Year	Number of families
+1985/1989	82.896 1990/1993	42.382 1993/1994	17.946
+1995	42.912 1996	43.486 1997	81.944 1998	101.094 1999	85.226 2000	60.521 2002	63.477 2003	36.301 2004	81.254 2005	127.506
+Source: INCRA/MDA, 2005
+The average number of families settled per year, during the first Cardoso Administration, was 59.500 at an average cost of 28.800 reais per family (at the time of the Lumiar technical assistance project) and 70.000 between 1998 and 2002, at an average cost of 7.180 reais per family (end of the special Procera credit line and of the “Lumiar” training & extension project).
+The cost indicated by INCRA ranged, in fact, from 13 to 15000 reais per family, according the type of settlement (expropriation or land credit lines), which is relatively low. However, the figures presented by INCRA regarding the global cost of the agrarian reform in the period of 1995-1998 (R$6.878.000) refer mostly to the financing of the compensation for expropriated land to their owners.
+Table 5: Results and costs of the agrarian reform (1995-2005)
+Source: Ministry of Agrarian Development, 2005, Brazil
+The figure presented by the MDA of an average 75000 families/year during the first three years of the Lula Administration, is also subject to controversy among the social movements and the opposition. The cost would come close to 12000 reais per settled, while the budget allocated in the II PNRA is 30000 reais per family. If there was a global advance during the Lula Administration, it was, above all, in INCRA’s budget for education, credit and technical assistance, but the financings used for infrastructure and direct support of the settled families are much lower than those predicted in the plan for agrarian reform (Porto-Gonçalves, 2005).
+This summary allows us to place the problem of the application of the present agrarian reform model in Brazil and its relation to the social movements, firstly, as a social and political issue. It is political in
+Y ear
+Number of settled families
+Costs in Reais
+1995
+30.716
+2.150.000
+1996
+41.717
+1.235.000
+1997
+66.837
+1.940.000
+1998
+98.740
+1.545.000
+Total FHC Adm. 1
+238.010
+6.870.000
+1999
+99.201
+938.000
+2000
+69.929
+406.000
+2001
+73.754
+331.000
+2002
+43.486
+380.000
+Total FHC Adm. 2
+286.370
+2.055.000
+2003
+28.000
+400.000
+2004
+97.000
+1.000.000
+2005
+127.000
+1.330.000
+3 years Lula Adm.
+226.800
+2.730.000
+two ways: the process has always been impaired, on one hand, by the interests and alliances of those who shared the power; and on the other hand, due to the insistence on an unfair model, subject to a lot of opposition. The issue is social because, even if in its origin, the agrarian reform project was planned as a response to a situation of great poverty and disparity, to the extreme injustices caused by the concentration of land. Its application cannot be limited to the distribution of plots of land: it also depends on the ways the production is organized and on the social life, the quality of life of its beneficiaries.
+2. THE POLITICAL AND SOCIOLOGICAL DEBATES AROUND THE AGRARIAN REFORM
+2.1. Actors and components of the debate
+The debate over the agrarian reform policy in Brazil has to do with more general issues, such as the project of society, the views on rural development, the place of agriculture in the society or the future of family agriculture. The political debate is limited, very often, to the confrontation between groups of interest and it also provokes unexpected alliances.
+A majority of the Brazilian political and managerial class, supported by the agrarian oligarchy and by the patronal agriculture sector, is against the agrarian reform, out of principle, out of fear, out of defending its own privileges, or even out of prejudice against the poor. Another part, so much in the left as in the right wing, doesn't believe in the economic success of the agrarian reform, but finds sociopolitical, electoral, ideological interests in the current process. Finally, sectors tied to the land speculation find economic interests in the current system, because, since 1996, the compensation for expropriated land has ensured the existence of a real institutional land market, which benefits, in fine, the proprietors, banks and investors.
+A third important tendency is constituted by those who defend the agrarian reform, for social, ideological and economic conviction. It comprises the social movements and the rural workers' unions, the landless organizations, the Catholic Church and the left-wing parties, such as PT. From the years 1990-2000 on, after the emotion raised by the repression of the landless by the police in the States of Rondônia and Pará (dozens killed in 1995), a majority of the public opinion, above all in the middle class, became favorable to the process of agrarian reform, getting even to influence the Cardoso Administration's policies.
+MST constitutes a private case in this pro-agrarian reform tendency, its leaders struggle, above all, for a socialist revolution in Brazil (Stedile, 2002), an objective far away from being shared by the rest of the settlers and members of the landless movement or its supporters.
+2.2. A model never really put into practice
+The academic debate is important for its written production. Even if it utilizes more scientific arguments, it is still very marked by those three tendencies. Two main theses occupy that debate today. First, in a developmental perspective, the agrarian reform constitutes one of the programs in a policy of strengthening the family agriculture (based on the small property and the family’s work) integrated into the capitalist market. Such insertion in the market can take place by the integration into the agri-food chains (grains, meat, milk, fruits, etc.), by the articulation to the national market and by the occupation of segmented market niches, by means of the qualification of the products (organic, agro-ecological, origin, etc). The reference to the European model is very strong (Veiga, 2002; Abramovay, 2002). It is justified by the success of a majority of beneficiaries of the agrarian reform, European descendants, in the states of Paraná, Rio Grande do Sul and Santa Catarina.
+For other authors, such as Souza Martins and José Graziano da Silva, the development of the capitalist
+7
+competition amidst the Brazilian and world agriculture reached such point where the settlement of small farmers without land by means of the agrarian reform would arrive too late. From the point of view of agricultural production, they can never become competitive2. But the agrarian reform can still be justified in Brazil, as a social policy aimed at limiting the rural exodus, fighting against the loss of roots and the marginalization of the rural populations condemned to migration.
+Silva (2002:142) pragmatically states that "My position is that, from the point of view of capitalist development, from the point of view of the development of the productive forces in the countryside, the agrarian reform is no longer a need, be it for the bourgeoisie, be it for the producing classes. That doesn't mean that it is not a possibility".
+Martins (2003:13) considers that, in Brazil, an alliance between the capital and the work against the land rent - even if irrational, and even from the point of view of the development of capitalism - has always been impossible. On the contrary, the slavery inheritance and the temptation of perpetuating it, sealed an alliance between the capital and land property. The main objective of a distributive agrarian reform would be that of reducing the work relationships linked to the concentration of land and of re- socializing the people left at the margin of the economic and social development (Martins, 2003:33). Like Silva (2002) and Veiga (2001), Martins also sees a Keynesian effect in the agrarian reform: the multiplication of the municipal districts, of the equipments and infrastructures in the rural areas, the re-urbanization and the strengthening of the civil society (Martins, 2003:178). He criticizes, not without reason, the current policy: "the agrarian reform program is a social program treated as if it were an economic program for small business farmers" (Martins, 2003:85), and proposes an extension and a routine work of the agrarian reform as a recurrent process of decentralizing land ownership. Such a policy would not be limited to the simple distribution of land and the multiplication of settlements.
+2.3. Access to the land through the market or through distribution: a false debate
+The only alternative to the distribution system ever tried, co-financed by the World Bank, is the program of land credit (Crédito Fundiário, former Banco da Terra and Cédula da Terra, in the Cardoso Administration), also described as agrarian reform through the market, having part of it dedicated to the settlement of young farmers (Primeira Terra).
+First, the opposition between access to the land through the market or through distribution is very relative. In practice, the distribution of expropriated private land got to depend on the market's logic, as the former proprietors are reimbursed in equivalent or superior amounts to the courses of the local land market. Therefore, such level of compensation encourages the proprietors to negotiate the occupation of their farms by the landless with the complicity of INCRA or through arrangements between those involved.
+In fact, the experience of the Banco da Terra, which started in 1999, inherited certain vices from the previous model without maintaining the advantage of the gratuitous access to the land. It is being applied by INCRA, using the same methods. The beneficiaries are set up in collective settlements and the habitations contained in agro-villages in order to reduce the infrastructure costs (roads, electricity, water) (Buanaim, 1999; Pereira, 2004; Barbosa, 2005).
+The main difference is that, instead of obtaining the land by a concession of the State, the farmers must pay for their lot, with the help of a land credit line. As another aspect, the support, in terms of infrastructure (habitation), credit and technical assistance (which are due to be paid for after the first
+2 This thesis, qualified as pragmatic or realistic, exists among PT and the Lula Administration. It presents the characteristic of coming close to the neoliberal and conservative proposals defended by the financial elite and the oligarchy. In fact, it is the thesis of unified economic thought.
+8
+two years), is less favorable than that of the classic outline, already reduced in 1999 (INCRA, 1999).
+For the World Bank and for the government, the fact of buying the lands from the proprietors who want to sell them should increase the readiness of land, make the procedures more flexible and reduce the cost of the land (eliminating long legal appeals). Also, the reimbursement should impute responsibility and commit the beneficiaries. So, one of the criticisms from the big land owners, even if denied by the statistics (FAO-INCRA, 1996; 2000; Heredia et al, 2004), would be the enormous rate of land abandonment by the beneficiaries of the agrarian reform, or, in other words, the useless expense of public resources (Neto, 2002). In fact, the only change is the compulsoriness of reimbursement of lands, often over-priced and from which it seems difficult to obtain a sufficient return. In the cases visited in the Northeast (State of Paraíba), families of smallholders were settled in lots of 17 ha of degraded pasture land in semi-arid areas. In those conditions, the rate of abandonment can only be the same or superior to that of the classic projects. And afterwards? How to force a poor person, with no income to pay for land that has no value? With imprisonment?
+In terms of the availability of land, the system didn't change at all. The processes for expropriation of unproductive lands, already rare and time-consuming3 due to the alliances between the judiciary power and the proprietors or due to corruption, continue the same. Those processes became very difficult after the 1998 ordinance prohibiting the expropriation of occupied land, taking from the social movements its only means of pressure. The legal actions are endless and, in fact, they increase the cost of the agrarian reform. The expropriated and distributed properties are always reimbursed and usually to current market prices.
+In summary, the experience of the land credit line risks ending up as an attempt of minimum agrarian reform. Besides the failures in applying it, the model "World Bank-Cardoso Administration" is mainly destined to reduce the rural exodus, to move the poor away from the urban centers, and, additionally, in the great business agriculture zones, to supply a cheap work-force to the farm enterprises or to the firms that work with agro-industrial vertical integration systems: I have been witness to cases aimed at the plantation of eucalyptus for cellulose, sugarcane and castor bean for biodiesel production in the States of Minas Gerais and Piauí. The story is cynical, because it was precisely the system of integration between agriculture and industry, applied to the production of soy, pigs and fowl, which provoked the ruin and the expulsion of thousands of small farmers from their lands in the Southern States of the country (Rio Grande do Sul, Paraná, Santa Catarina). These farmers created the MST.
+However, one of the consequences of the programs of agrarian reform through the market is that of having diffused in the media a supposedly economic and social failure of the model of land distribution. That is in spite of all evaluations, governmental or not, that are showing economic results in terms of income and infrastructure equivalent or many times superior to those of the traditional family agriculture in the same areas (FAO-INCRA, 1996 and 2000).
+Thus, the agrarian reform, and the social movements that promote it, has lost support from the public opinion, influenced by the press and the intellectuals, particularly, from the middle class.
+2.4. The thesis of the attraction of renting the land among the landless
+Among the defenders of the agrarian reform, disappointed by the current situation, largely due to the inclinations of the public policies, some researchers, such as Martins (2003:13), reject most of the responsibility over the MST and the social movements.
+According to Martins, the ease with which the organizations that struggle for the agrarian reform mobilize masses to assume a temporary identity as "landless", even among the urban population, shows the victory of property over work, as a reference value and guidance of the political behaviors and social aspirations, as a political project and a historical option.
+3 In the Northeast, I found reference to this only in the cases of farms expropriated for illicit plantations.
+9
+This criticism is quite radical, since, in the same book, the author recognizes exactly that, landless or "with land" (after having finally received a plot, even after years of struggle and precarious settlement), that these people’s main characteristic is, precisely, not having any options. It means that they don't have the possibility of choosing, so as to reclaim a beautiful definition of development proposed by Sen (1999).
+"This is", Martins (2003: 14) writes, "the hardest kind of latifundium to fight, that of the popular mentalities colonized by the central character of the land rent". According to him, the landless reconstitute an insidious mediation and they frequently adhere to the search for easy profits provided by renting their lands to someone else. Martins (2003:14) qualifies this mechanism as a “retail rentism4 practiced by the poor”.
+These observations do not correspond to the results of the main impact evaluations of the Brazilian agrarian reform (Buanaim, 1999; FAO-INCRA, 2000; Heredia et al., 2004) and to the specific studies about evasion and rotation (Mello, 2006; Silveira, 2006; Cepeda et al, 2002), nor to my own observations.
+In fact, it is true that, not disposing of means of adding value to their lots themselves, certain settlers rent out a part of their lands to better endowed neighbors or to great land owners in the region5. Such practices are forbidden by the agrarian reform law, but are tolerated by INCRA, by lack of an alternative. But, they are definitely not a majority and, above all, they don't usually come from a calculated choice. Even if it was possible to survive better from renting out a dozen of hectares instead of cultivating them, such practice can hardly be associated to a speculative and calculated option of renting the land. Many times, the beneficiaries have waited for two, three, or even eight years in precarious settlements, under plastic canvases in order to gain access to a plot of land.
+In the studies that I have accomplished in settlements in the Northeast and in the Center-west (States of Minas Gerais and Mato Grosso) such behavior may exist, but they are a minority and assimilated by the settlers as failures, even as failures of life and not as land speculation (Sabourin et al, 2006).
+The first motivation of the families, who will enroll in the movements of struggle for land, is the quest for survival with dignity and, if possible, with autonomy and safety. They look for safety to escape from the violence of their bosses or of the slums, and later, in the settling and occupation phases, safety to escape from the violence of the police. They look for security, even if sometimes an illusion of it, of being able to feed their families with the product of their work and the fruits of the land; finally, safety of having an alternative in life to be able to send their children to school.
+There is, in fact, a dream of autonomy and of social ascension in those who were always subjects (Garcia Jr, 1990). I agree with Martins in one point: the model of the great cattle-raising farm, of the land rent liberating one from the slavery of work has taken roots in the mind of the Brazilian society and, particularly, in the rural population.
+It is not, therefore, a surprise if that model influences the behaviors of all the classes of the society. But it doesn't colonize the spirits of the poor any more than those of the others.
+How to expect from one of the landless a different or even exemplary behavior, trying to transfer citizen demands to those who have less access to citizenship and to the recognition of others? Some of Martins’ qualifications lead to the tendencies that he himself denounces: the MST leaders' vision which projects a vision of the landless as the vanguard of a socialist revolution, or that of INCRA's ranks which dream of producers inserted in productive projects and cooperative models.
+The reality of the agrarian reform's public, not corresponding to any of those profiles, remains hidden,
+4 “rentismo de varejo “ in portuguese 5 I have also observed that certain settlers lend to neighbours without demanding rent for the land.
+10
+11
+invisible. Martins (2003) evokes, rightly so, an "invisible or occult subject". Candidates and beneficiaries are forced to implement detour strategies in order to have access to the land and to public support by or inside structures that don't correspond to their profile and aspirations.
+If there is a speculative practice, it comes from the great land owners who negotiate with INCRA the expropriation of their lands. It is also the case of the urban ones (paid workers, merchants and employees) or of the local land owners who buy lots abandoned by ruined settlers, illegal practices that are bailed by INCRA and the social movements.
+On the other side, if there is certain instrumentalization on the part of the MST and CONTAG, it is more due to the fact that candidates to the agrarian reform have to go through an enlistment in those movements to gain access to land, even if they don't share their methods or ideology6. That clientelist practice was generalized (box 2) because the State didn't offer another solution to select the beneficiaries according to public and transparent rules. Then again, without those movements and their occupations of non-productive areas, there would never have been the application of the agrarian reform law.
+Box 2: Opinions of the settlers from Sumé, PB, on the MST (15/09/2005 and Lazaretti, 2007)
+« MST started to occupy the lands and, I find this fair, because our landless families never had that possibility. I am not a militant, but I support it because the cause is just and because the families work lands that didn't produce before. That is why I am in favor of the MST, because everything that comes in support to the communities is welcome » (Antonio A F - translated)
+« For me, this here in the MST means everything, because before I had never had a piece of land, even less, a house » (Marluce B N- translated)
+« The MST is a fighter. It brings improvements and it still continues the fight after settling » (José A L - translated)
+« The cause is just, we don't steal from anyone. That land was abandoned. Now, I can say that I am happy, because I have already lived in other people's land and it was very hard. Many times I planted and the boss came and said "Go, pick it fast because I need to put the cattle to graze in this lot". Here, I plant and later I am sure I can harvest peacefully. I don't agree with all the actions of the MST. That story of going to Brasília to break public buildings, I don't agree with that. It should find a more peaceful way of attracting the government's support. I also find it wrong to occupy a farm and to burn everything that's there » (Moacir M. S. - translated)
+“Socialism, no, I don't know what very well what that is” (José M. - translated)
+« The MST brings a solution and a piece of land to the poor who don't have anywhere to live. Sometimes, I find everything a little disorganized. They have a lot of people of everything kind, including people that don't like this land, so, it is difficult to live in this atmosphere ». (Francisco A L - translated)
+« I am proud of being in the MST, of being called landless, but I have already learned how to answer, because today, I am "with land". Landless are those who sell themselves to the land owners » (Pedro, leader - translated).
+« I joined the MST out of sympathy, I saw that its work was good and useful; and in the Peasant University, I learned the importance of the social movements and the other side of the MST, because before even I spoke badly of them. Then, I started working in my settlement » (Fabiane, leader - translated)
+« I'm proud to be in the MST, I feel comfortable, because want it or not, there is only the MST to fight for us, because we don't have the strength to get to the public organisms alone. The MST speaks for us. Many don't like the MST, OK, but, what the MST does, it does it for us » (Dagmar B, leader - translated)
+6 I propose the discussion of this Marxist ideology issue in the next sub-chapter
+Presently, in Brazil, the limitations of the agrarian reform are due, more than anything else, to the failure of the public policy instruments or of their application; the successful part, including the fact that it exists, for good or bad, and with globally positive results, can be considered as a conquest by the social movements, including the MST.
+3. Discussion, Lesson and perspective
+3.1. The limits of the Marxist criticism
+The MST associates a Marxist Leninist discourse to an attempt at promoting a modern family agriculture, a project which goes through gaining access to a patrimony, to capital (credit), to public infrastructures, and which depends on the integration into the capitalist exchange market. That position constitutes a first contradiction, revealed by the failure of the Integral Agrarian Production Cooperatives, the CPA, dreams of tropical kolkhozes. In Brazil, as in the rest of the world, settled small farmers confirm that a project of collective production, which turns individual work into anonymity, doesn't make sense in agriculture (Lazzaretti, 2007:324-330).
+After that failure, the MST associates itself, in its discourse, not in its practices, to the theses of the Via Campesina of a modern peasant project built around autonomy: the insurance of food and quality of the life. But, once the issue of its articulation with the markets is put aside, the project becomes limited to a discourse.
+Of course, the Marxist analysis of man's exploitation by man allows the exposure of the unjust land distribution in Brazil. It can thus contribute to the promotion of the agrarian reform as an attempt of rupturing of the mechanisms of expulsion of the small peasants from their lands and of social exclusion of the landless workers. But, once the land is obtained, that criticism it doesn't apply anymore to proposing a differentiated social and economic model. The settlements are all but a socialist or revolutionary experience. Even if it is not the poor expression of the “retail rentism” denounced by Martins (2003), they reproduce, with the approval of the MST, certain paternalist and clientelist relationships of the Brazilian political class, in other words, structures of unequal reciprocity.
+Those structures have taken such deep roots in Brazil's rural collective unconscious, ever since the colonial conquest and the slavery, that they colonized the mentalities, not inefficiently.
+Not having the theoretical instruments available to critically analyze such inequity which corresponds to an alienation of the reciprocity systems, the MST persists in the Marxist rhetoric and tries to explain those behaviors by means of mystique, discipline, obedience to the democratic centralism, etc. But, in reality, in relation to the leaders of the MST, the settled reconstitute subordination relationships of paternalist and clientelist nature or, in anthropological terms, structures of asymmetric reciprocity.
+On the other hand, how to explain this other contradiction that constitutes an unconscious reproduction, among the landless, of the dominant model of the rural property, individual and familiar: is it the boss' model or that of the class enemy?
+Just as it happened with the access to consumer goods of the factory workers in Europe or in the São Paulo urban area, in Brazil, the class enemies in a western capitalist society are, in fact, members of the same system; a system of which the victims are also part. Those victims dream, sometimes, to share the advantages of the system: for example, that everybody may have a "boss" or high employee salary. It could be the case of the employees of the Court of Auditors in France, of the Superior Federal Tribunal or of the members of the National Congress in Brazil. Everyone in such system finds themselves equally alienated, be it for the attraction of profit by means of the logic of exchange, or be it for the privileges of the castes by means of the logic of reciprocity, even if they continue to develop a left-wing speech.
+12
+That is the case of the judgments of value which, turning against the supporters of the class struggle, may disappear with the critical conscience of the system itself, but not, in fact, with the victory of the oppressed against the oppressors.
+The limit of the Marxist criticism in Brazil also comes from the fact that the country still associates exchange structures (capitalist) and reciprocity structures (although partly unequal). There fore, it accumulates alienation forms characteristic to the two systems: the capitalist exploitation for the private accumulation (which in spite of everything, is productive) and the unproductive and parasitic dominance of the great unproductive fazendas and professional politicians. However, the Marxist criticism is inert when faced with the alienation of the reciprocity system, for which a specific critical analysis should still be constructed, as PT's failure in changing the way to do politics in Brazil has demonstrated.
+3. 2. Consequences of the false debates: more divergences
+In fact, the loss of legitimacy, or simply of sympathy from the public opinion, harms the movement and the future of the land redistribution, well beyond the electoral alternations, which, as demonstrated by the Lula Administration, change very few things. That is precisely what the leaders of the MST can't perceive clearly and what many of the settled interviewed in the Northeast or in Minas Gerais explain in their speech (box 2).
+In spite of not sharing the MST ideology, ignoring its project of socialist revolution, or not knowing what socialism means, many beneficiaries of the agrarian reform remain as faithful militants of the movement which granted them access to the land. Therefore, it exists among the settled a strong feeling of reciprocity to the MST around that acquisition, which is at the same time material, human and symbolic, of the land. One has to imagine what it represents, for them, the property of a lot, of a small familiar production unit, in particular, in terms of the possibility of social and economic autonomy. This represents the exact contrary of the conscription into collectivist structures that fuse and mix the efforts of individuals and families. It is the contrary of the structures that deny the honor of each one's name and, above all, don't allow the recognition of the quality of a job well done, very often what constitutes a poor person's only pride, their only distinctive sign of identity.
+Silveira (2005), who studied projects of agrarian reform in Rio Grande do Sul, writes that "the invisible subject of the agrarian reform is recomposed in a new peasant and artisan project, associating family, work and land". These are, ironically, words used by the Marxist criticism of the peasant mentality, "the subjectivity of the small production and of the artisan ideology", previously object of denouncements in MST's notebooks (Morais, 1986). The organization and value of the family perfectly coexist with a political mythology symbolically constituted during the struggle for land and for survival. The analysis of the landless' speech demonstrates everything but resignation; the settled build positive images of themselves, including as a fundamental element, the epic symbolism of the hero who overcomes the obstacles with faith, hope and bravery.
+It is, therefore, around those values and the relationships that can mobilize and reproduce them, that it is possible to rebuild a positive identity and structures of social cohesion adapted to endow the new smallholders with means to respond to the numerous challenges they must face, as much in the individual and familiar plan, as in the collective and institutional plans.
+3.3. What alternatives?
+Several alternative proposals have been studied (Silva and del Grossi, 2000) but they were not resumed by the syndical organizations and the MST, who, on the contrary, accepted to negotiate with the last administration, a certain co-management of the agrarian reform.
+However, there exists a range of actions which has been very little explored, such as the regulation of land title deeds, facilitated nowadays by survey techniques using remote sensing or geographic
+13
+informational systems. Another recurrent issue is that of the attribution of deeds to the legitimate occupants in precarious situation such as the land squatters (posseiros7) and the negro-slave descendants (quilombolas), but also to the users of the common grazing (fundos de pasto) or extractive reserves (reservas extrativistas8).
+There lacks a true statute of the cooperatives of services for the family agriculture. It would be urgent to dispose of a statute of the land tenant and of the sharecropper (with public control of the land's rent). Certain competences of the agrarian reform could be decentralized to the regional States and municipal districts under Federal control. There could be studies on the constitution of mixed land societies or landowner sindicates, linked to the agrarian credit (such as the Societies for Land Consolidation and Settlement – the Safer in France). There is a need for diverse statutes of group agriculture that could facilitate the transition processes between generations or farmers’ group projects in agrarian reform settlements. Some references exist, such as the Farmers’ Groups for Common Land Management in Europe, or the joint farming arrangements under French law: the Groupements Agricoles d’Exploitation en Commun (GAEC).
+There are also alternatives in Brazil, in terms of methods and support structures for settlements, but these are isolated. Those methods and tools present various characteristics adapted to the situations of the beneficiaries of the agrarian reform: - The mechanisms for social construction of partnerships allow complementarity between the logics and the actions of individual, familiar, collective and public nature (Sabourin et al, 2006);
+- The methodological approach of the action-research and extension is based on the partnership between the involved actors; - the successful cases usually associate an experience of rural education (Agriculture Family School, Farmer’ s	Field	Schools,	Peasant	University,	pedagogy	of	alternance	etc)	to	an	initiative	of construction and participative divulgation of the innovation (community seed banks, farmers’ experiments or research groups, demonstrative units, etc) (Sabourin, 2006 a and b);
+- those initiatives try to build values and competences of responsabilization and autonomy of the actors to break the traditional models of dependence, paternalism, assistentialism and clientelism maintained by the tutelage that occur in the Brazilian rural environment (Tonneau and Sabourin, 2007);
+- they are methods which take into account the resources, practices, and knowledge of the small farmers and which thus contribute to strengthen and to subsidize the recovery of their individual dignity and the construction of a positive collective identity so as to prepare them to assume their own development process.
+- these actions are always localized and territorialized: they are developed in loco, as close as possible to the places where smallholders and their families live and work, from the conditions, resources and characteristics of their lands and regions, what doesn't exclude it being open to others, by means of study visits to the outside or the invitation of people or organizations from other areas.
+Conclusion
+In terms of family agriculture and agrarian reform, the Brazilian debate rotates around two theses. Both of them, as I see them, are reductionist and partial, and ignore living alternatives inside the country. One is through the promotion of an innovative family farmer as a small businessman, more and more integrated into the capitalist market, be it through the international chains or through market niches segmented by means of the qualification of the products. The other thesis, considers that the development of the agricultural capitalism and the degree of globalization of the Brazilian agriculture are such that the solutions of agrarian reform and support to family agriculture is obsolete from the point of view of both the capitalist bourgeoisie's interests and those of the productive forces. It would
+7 posseiros = settlers with no title deed 8 reservas extrativistas = natural reserve where the population lives off the harvest of non-timber products
+14
+arrive too late and it wouldn't allow the set up of competitive small producers. However, the agrarian reform can be justified as a social policy of struggle against poverty, of re-socialization of the rural populations which have been uprooted or excluded from the countryside by the modernization of agriculture. This thesis resembles the neoliberal thesis of the defenders of corporate agriculture and could already be found in the rural segment of the Zero Hunger (Fome Zero) program's first phase.
+Even if the credit lines for the family agriculture were increased and diversified in the Lula Administration, they represent only 15 to 20% of the total credit lines destined to patronal agriculture. What is worse is that this hegemonic vision of the success of corporate agriculture, politically built by the conservative ruralist representatives, managed to introduce perverse effects of neoliberal inspiration in the main rural programs of the Lula Administration, even though still controlled by the PT: alimentary security (Zero Hunger), agrarian reform and support to family agriculture. Seemingly, the PT and the allied social movements do not have solid alternative proposals to the neoliberal model. This can come from the ignorance of the several realities of family and peasant agriculture in Brazil, as well as of the nature of the agrarian reform's public. This limitation is worsened by two other factors: the subjugation by the easy economic theses of the unique neoliberal thought, and a sometimes irresponsible clientelist behavior towards the rural social movements. That is why, among other reasons, the debates that have encouraged the first Lula Administration towards the agrarian reform have just grazed the real issues.
+Bibliographic References
+ABRAMOVAY, Ricardo. Desenvolvimento Rural Territorial e Capital Social. In: Planejamento e desenvolvimento dos territórios rurais, Conceitos, controvérsias e experiências, SABOURIN E. & O. TEIXEIRA. Brasília: UFPB, Cirad, Embrapa, 2002.
+BARBOSA, Marlon. Programa Banco da Terra – Um estudo de caso no município de Formosa. Brasília: UnB-FAV- Programa Agronegócios, 2005.
+BOLETIM DATALUTA, n. 8, agosto de 2008, Presidente Prudente, Núcleo de Estudos, Pesquisas e Projetos de Reforma Agrária, Nera www.fct.unesp.br/nera.
+BUANAIM, Antonio. Relatório preliminar de avaliação do projeto de Cédula da terra, Brasília: Unicamp- Nead, MEPF, 1999.
+CARVALHO, Horacio M de. O campesinato no século XXI. Possibilidades e condicionantes do desenvolvimento do campesinato no Brasil. São Paulo: Editora Vozes, 2005.
+CEPEDA, V. A.; MARQUES, A.; SANTO, C. Processo de evasão de assentados – perfil socioeconômico das famílias desistentes. In: VI Congresso Latino-Americano de Sociologia Rural. Porto Alegre: UFRGS-Alasru, v. único, 2002.
+FAO-Incra. Perfil da agricultura brasileira. Brasília, 1996.
+__________. Novo retrato da agricultura familiar: o Brasil redescoberto. Brasília, 2000.
+GARCIA JR., Afrânio. O Sul. Caminho do roçado. Brasília: Marco Zero-Unb-CNPq-MCT, 1990.
+GEFFRAY, Christian. A opressão paternalista: cordialidade e brutalidade no cotidiano brasileiro, Rio de Janeiro: Educam, 2007.
+GRAMSCI, Antonio. Cadernos do cárcere. Volume 6. Rio de Janeiro: Civilização Brasileira, 1999-2002. IBGE. Censo Agropecuário, 1995. Rio de Janeiro: Fundação IBGE, 1996. Incra. Novo Mundo Rural, Projeto de reformulação da reforma agrária. Brasília: Incra, 1999. HEREDIA, Beatriz; MEDEIROS, Leonilde e LEITE, Leite, Sérgio (coords.). Impactos dos assentamentos:
+um estudo sobre o meio rural brasileiro. Brasília: Instituto Interamericano de Cooperação para Agricultura-Núcleo de Estudos Agrários e Desenvolvimento Rural. São Paulo: Unesp, 2004.
+LAZZARETTI, Miguel Angelo. As ações coletivas nos assentamentos do MST relações de poder e subjetividade. Campina Grande: UFCG-Programa de Pós-Graduação em Sociologia. Tese, 2007.
+MARTINS, José de Souza. O sujeito oculto: ordem e transgressão na reforma agrária. Porto Alegre: Ed. UFRGS, 2003.
+15
+MELLO, Paulo Freire. Evasão e Rotatividade em Assentamentos Rurais do Rio Grande do Sul. Porto Alegre: Universidade Federal do Rio Grande do Sul, dissertação de mestrado, 2006.
+MDA/Incra. II Plano nacional de reforma agrária. Brasília: Gráfica Terra, 2003.
+MORAIS, Clodomir Santos de. “Elementos sobre a teoria da organização no campo”, Cadernos de Formação do MST, São Paulo, n. 11, 1986.
+NETO, Francisco Graziano. Recolocando a questão agrária. In: A questão agrária hoje. STÉDILE, J. P. (org.). Porto Alegre: Ed. UFRGS, 2002.
+PEREIRA, José Maria, O modelo de reforma agrária de mercado do Banco Mundial em questão: o debate internacional e o caso brasileiro. Rio de Janeiro: CPDA, UFRRJ, dissertação de mestrado, 2004; www.fmra.org.
+POLANYI, Karl. In: POLANYI, K., ARENSBERG, C.; PEARSON, H. (eds.) Trade and Market in the Early empires. Economies in History and Theory, New-York, Glencoe, The Free Press, Clencoe, 1957.
+PORTO-GONÇALVES, Carlos Walter. A nova questão agrária e a reinvenção do campesinato: o caso do MST. In: Reforma agraria y lucha por la tierra en América Latina, Revista del Observatorio Social de América Latina (OSAL, Buenos Aires), n. 16 , 2005.
+SABOURIN, Eric. Changements sociaux, organisation des producteurs et intervention externe. In: Paysans du Sertão. CARON, P. e SABOURIN, E. (coord.), Montpellier: Cirad-Repères, 2001.
+SABOURIN, Eric. Organizações formais e dispositivos coletivos dos agricultores no Nordeste Semi- árido. In: Associativismo, cooperativismo e economia familiar no meio rural, SABOURIN, Eric (org.). Brasília: UnB- Ceam-Neagri, 2006a.
+SABOURIN, Eric. Extensão rural para o ecodesenvolvimento: reflexão sobre métodos e políticas públicas. In: IX Congresso da Faser, Extensão Rural, Ecodesenvolvimento e Sustentabilidade, Aracaju 16- 18 de outubro de 2006b.
+SABOURIN, Eric, VALADARES, José Humberto, OLIVEIRA, Marcelo Nascimento. Lógica familiar e lógica coletiva nos assentamentos de reforma agrária do Brasil: o caso do município de Unaí (MG). In: Congresso Latino Americano de Sociologia Rural, Quito: ALASRU, 20-24 de novembro de 2006.
+SAMPAIO, Plínio de Arruda. Questão agrária e dilemas da formação nacional. Conferência, São Paulo: UNESP,ncia, e, miliar no meio rural,os TALICO SEGUIDO DA SIGLA GAEC] 20/05/2001 http:// www.mst.org.br/biblioteca/textos/reformaagraria/plininho.html.
+SEN, Amartya. Un nouveau modèle économique: développement justice liberté, Paris : O Jacob, 1999. SIDERSKY, Pablo. Reproductibilité de l’agriculture familialedans l’Agreste de l’État de Paraíba, Brésil: Dynamiques sociales, organisations locales, innovations techniques et sociales. Rapport préliminaire - Thèse
+de doctorat, University of Wageningen, Rural Communication and Extension, 2006.
+SILVA, José Graziano da. O desenvolvimento do capitalismo no campo brasileiro e a reforma agrária. In: A questão agrária hoje. STÉDILE, J. P. (org.). Porto Alegre: Ed. UFRGS, 2002.
+__________. Reforma agrária hoje, uma agenda estratégica para a reforma agrária. In: Seminário Desenvolvimento e Questão Agrária no Brasil, 28/06/2007, Brasília, Núcleo de Estudos Agrários e Desenvolvimento Rural (NEAD) do Ministério do Desenvolvimento Agrário (MDA), Universidade Estadual de Campinas (Unicamp), 2007.
+__________. DEL GROSSI, Mauro. Estimativas das famílias sem-terra no Brasil: priorizando o combate à pobreza e ao desemprego, Relatório final, Campinas: Unicamp, Brasília: NEAD, 2000.
+SILVEIRA, D. S. Narrativa histórica, etnografia e reforma agrária em um assentamento rural. Porto Alegre: UFRS, dissertação de mestrado, 2006.
+TEMPLE, Dominique. Teoria de la Reciprocidad, tomo II: La economía y reciprocidad. La Paz: PADEP-GTZ, 2003.
+TONNEAU, Jean Philippe & SABOURIN, Eric (orgs.). Agricultura familiar: interação entre, políticas públicas e dinâmicas locais. Porto Alegre: Ed. da UFRGS, 2007.
+VEIGA, José Eli da. O Brasil rural ainda não encontrou seu eixo de desenvolvimento. Revista Estudos Avançados, n. 15 (43), 2001.
+__________. Cidades imaginarias: O Brasil é menos urbano do que se calcula São Paulo: Autores Associados, 2002.
+16
+17
+Translated by Giuliano Olivatti Menegazzi Translation from Estudos Sociedade e Agricultura, Rio de Janeiro, vol. 16 no. 2, p. 151-184, Abril 2008.

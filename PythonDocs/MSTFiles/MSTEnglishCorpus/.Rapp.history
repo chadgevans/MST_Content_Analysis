@@ -1,0 +1,394 @@
+model4<-lm(x~y)
+model4
+(-2.539)(45/(sqrt(20)))
+(-2.539)(45/(sqrt(20))
+(-2.539)(45/(sqrt(20)))
+45/(sqrt(20))
+24/10
+2.539(45/(sqrt(20)))
+sqrt(20)
+4.4721(45)
+4.4721*45
+45/4.4721
+2.539
+2.539*10.06
+sqrt(20)
+45/4.4721
+24/10
+((2789+2154+2341+2299+3024)/28712)-((10673+6668+10438)/64582)
+class(lines)
+length(lines)
+lines<- strsplit(lines, ' ')
+lines<-readLines("Genesis.txt",encoding="latin1"):
+?readlines
+lines[1:10]
+lines<-strplit(lines,' ')
+1/12
+x=.0833333333
+2x
+2*x
+g
+2x
+2*x
+4*x
+9*x
+8*x
+5*x
+6*x
+8*x
+.16666666666+.33333333333+.75+.66666666666+.4166666666666+.41666666666666+.5+.66666666666666666
+1/6
+j
+z=1/6
+1*z
+2*2*z
+3*2*z
+4*1*z
+.16666666+.6666666666+1+.66666666666
+h
+1*1*z
+3*1*z
+4*1*z
+5*1*z
+6*1*z
+8*1*z
+.1666666666+.5+.6666666666+.833333333+1+1.333333333
+2(1/36)
+2* (1/36)
+2/36
+2/36 +6/36
+2+6+12+20+30+42+40+36+30+22+12
+252/26
+2+6+12+20+30+42+40+36+30+22+12
+252/36
+sqrt(200)
+1.6/14.14214
+1.2/14
+1.2/14.14214
+.4/.0848
+1/20
+.1/8
+.05*.05*0.0125
+1/20
+8/20
+19/20
+.05*.4*.95
+7/8
+1/20
+8/20
+.05*.4*.05
+12/20
+1/20
+8/20
+19/20
+.05*.4*.95
+12/20
+.6*.05*.05
+.019+.0015+.019
+rm(list=ls())
+source("HW6.R",echo=T)
+5631+1418+280
+7329/16071
+.48/.46
+1.0434*.73
+.48*.73
+.3504/.35
+.5631/16071
+5631/16071
+.48*.73/.35
+.35*.73/.456
+.35*.73
+.2555/.456
+5631/16071
+x=c(0,1)
+y=c(0,1)
+plot(x,y)
+z=c(0,1,1.25)
+a=c(0,1,1.25)
+plot(a,z)
+plot(a,z,xlab= x value, ylab= y value)
+plot(a,z,xlab= "x value", ylab= "y value")
+plot(a,z,main="Y < 1/2", xlab= "x value", ylab= "y value")
+plot(a,z,main="Y > X", xlab= "x value", ylab= "y value")
+plot(a,z,main="P(Y < 1/2 | Y > X)", xlab= "x value", ylab= "y value")
+3553+5710+1825+901
+329+1215+1864+1983
+11989+5391
+11989/17380
+5391/17380
+901+1983
+1825+1864
+5710+1215
+3553+329
+3882+6925+3689+2884
+3882/17380
+6925/17380
+3689/17380
+2884/17380
+3553/3882
+3553/17380
+329/17380
+5710/17380
+1215/17380
+1825/17380
+1864/17380
+901/17380
+1983/17380
+.2+.33+.12+.05+.02+.07+.11+.11
+5710/17380
+31.9+2.1.6.3
+31.9+2.1+6.3
+100-48.7
+library(xtable)
+data(tli)
+tli.table=xtable(tli[1:10,])
+digits(tli.table)[c(2,6)]<-0
+print(tli.table,floating=FALSE)
+demo()
+demo(intervals)
+?data.frame
+m <- matrix( sample(1:5, 20, rep=TRUE), nc=2)#
+m[ order(m[,1],m[,2]), ]
+n=matrix( sample(1:5, 20, rep=TRUE), nc=2)
+n
+source("FinalProject.R",echo=T)
+SUM[(x-46.726)(y-1369.53)]
+source("HW7.R",echo=T)
+q()
+?xtable
+library(xtable)
+R1=c(0.9117,0.0042,0.9035,0.9199)
+R2=c(0.9688,0.0044,0.9592,0.9762)
+R3=c(0.9284,0.0077,0.9122,0.9426)
+x=rbind(R1,R2,R3)
+x
+rownames(x)=c("Expectation of Graduation|Public School","Expectation of Graduation|Catholic School","Expectation of Graduation|Private/Other School")
+x
+colnames(x)=c("Mean","St. Dev.","2.5 %","97.5 %")
+x
+colnames(x)=c("Mean","Stand. Dev.","2.5 %","97.5 %")
+x
+xtable(x)
+R1=c(0.894,0.106)
+R1=c(90.4%,10.6%)
+R1=c(90.4%,10.6% )
+R1=c(90.4,10.6)
+R2=c(97.1,2.9)
+R3=c(93.5,6.5)
+x=rbind(R1,R2,R3)
+x
+rowname(x)=c("Public Sector","Catholic Sector","Private/Other Sector"
+)
+rownames(x)=c("Public Sector","Catholic Sector","Private/Other Sector")
+x
+colnames(x)=c("Predicted Graduation Rate","Predicted Non-Graduation Rate")
+x
+xtable(x)
+barplot(x)
+barplot(x,besides=TRUE)
+?barplot
+barplot(x,beside=TRUE)
+?barplot
+x
+x[-2]
+x
+x[-1]
+class()x
+class(x)
+x
+R1
+x$Predicted Graduation Rate
+x$PredictedGraduationRate
+x=as.table(x)
+x
+x$Predicted Graduation Rate
+x$PredictedGraduationRate
+col[1]
+col[1,]
+x[1,]
+x[,1]
+barplog(x[,1])
+barplot(x[,1])
+barplot(x[,1],main="Predicted Graduation Rate, by Sector",xlab="Sector",ylab="Percentage")
+barplot(x[,1],main="Predicted Graduation Rate, by Sector",xlab="School Sector",ylab="Predicted Graduation Rate (Percentage)")
+944+36+144+9+144+49+9+4+100+9+225+1+16+64+4+225+169+289+225
+-104
+2666*30
+79980-2666
+77314/29
+sqrt(2666)
+-104/51.63332
+2/1.96
+1.02*1.02
+1.96*5/2
+1.96*10
+40/19
+20*1.96
+2.58*15
+source("FinalProject.R",echo=T)
+#
+var.labels <- c("Direct Effect (1 PH)", "Direct Effect (2 PH)", "Direct Effect (3 PH)", #
+#
+"Household Effect (2 PH)", "Household Effect (3 PH)", "Low Zip Effect (1 PH)", #
+#
+"Medium Zip Effect (1 PH)", #
+#
+"High Zip Effect (1 PH)", "Low Zip Effect (2 PH)", #
+#
+"Medium Zip Effect (2 PH)", #
+#
+"High Zip Effect (2 PH)","Low Zip Effect (3 PH)", #
+#
+"Medium Zip Effect (3 PH)", #
+#
+"High Zip Effect (3 PH)")#
+#
+sample.means <- c(.0516,.0300,.0442,.0064,.0125,.0072,-.0056,-.0095,#
+#
+.0065,.0083,.0139,-.0257,-.0019,-.0105)#
+#
+std.errs <- c(.0092,.0098,.0229,.0098,.0232,.0086,.0092,.0128,.0104,#
+#
+.0093,.0109,.0168,.0197,.0288)#
+#
+lower <- sample.means - (std.errs * 1.96)#
+#
+upper <- sample.means + (std.errs * 1.96)#
+#
+new.data <- data.frame(var.labels, sample.means, lower, upper)#
+#
+order <- c(14,13,12,11,10,9,8,7,6,5,4,3,2,1)#
+#
+new.data$var.labels <- reorder(new.data$var.labels, order)
+#
+pdf(file='IdealvsPower_110.pdf',height=7,width=11)#
+#
+plot(rep_ideals_110, rep_power_110, range(-2,2),c(0,1.5), type='p',pch="R", col="black",xlab="Ideal Points 110th", ylab="Power Scores 110th")#
+#
+points(dem_ideals_110, dem_power_110, type='p', pch="D", col="grey30")#
+#
+fit <- lsfit(ideal_h110,power_h110)#
+#
+abline(fit, col="grey15")
+var.labels <- c("Direct Effect (1 PH)", "Direct Effect (2 PH)", "Direct Effect (3 PH)", #
+#
+"Household Effect (2 PH)", "Household Effect (3 PH)", "Low Zip Effect (1 PH)", #
+#
+"Medium Zip Effect (1 PH)", #
+#
+"High Zip Effect (1 PH)", "Low Zip Effect (2 PH)", #
+#
+"Medium Zip Effect (2 PH)", #
+#
+"High Zip Effect (2 PH)","Low Zip Effect (3 PH)", #
+#
+"Medium Zip Effect (3 PH)", #
+#
+"High Zip Effect (3 PH)")#
+#
+sample.means <- c(.0516,.0300,.0442,.0064,.0125,.0072,-.0056,-.0095,#
+#
+.0065,.0083,.0139,-.0257,-.0019,-.0105)#
+#
+std.errs <- c(.0092,.0098,.0229,.0098,.0232,.0086,.0092,.0128,.0104,#
+#
+.0093,.0109,.0168,.0197,.0288)#
+#
+lower <- sample.means - (std.errs * 1.96)#
+#
+upper <- sample.means + (std.errs * 1.96)#
+#
+new.data <- data.frame(var.labels, sample.means, lower, upper)#
+#
+order <- c(14,13,12,11,10,9,8,7,6,5,4,3,2,1)#
+#
+new.data$var.labels <- reorder(new.data$var.labels, order)
+dotplot(var.labels~sample.means,data=new.data,#
+#
+aspect=1.2,#
+#
+xlim=c(-.08,.1),#
+#
+xlab = "Regression Estimates of Treatment and Spillover Effects by Household Size",#
+#
+panel=function(x,y){#
+#
+panel.xyplot(x,y,pch=16,col="black")#
+#
+panel.abline(v=0)#
+#
+panel.segments(new.data$lower,as.numeric(y),#
+#
+new.data$upper,as.numeric(y),lty=1,col="black")} )
+library (xtable)#
+library (foreign)#
+library (zoo)#
+library (sandwich)#
+library (MCMCpack)#
+library (coda)#
+library (lattice)#
+library (mvtnorm)#
+library (VGAM)#
+library (sna)#
+library (systemfit)#
+library (nnet)#
+library (gee)#
+library (mgcv)#
+library (car)#
+library (aod)#
+library (Amelia)#
+library (MatchIt)#
+library (Zelig)
+dotplot(var.labels~sample.means,data=new.data,#
+#
+aspect=1.2,#
+#
+xlim=c(-.08,.1),#
+#
+xlab = "Regression Estimates of Treatment and Spillover Effects by Household Size",#
+#
+panel=function(x,y){#
+#
+panel.xyplot(x,y,pch=16,col="black")#
+#
+panel.abline(v=0)#
+#
+panel.segments(new.data$lower,as.numeric(y),#
+#
+new.data$upper,as.numeric(y),lty=1,col="black")} )
+?zelig
+library(zelig)
+library(Zelig)
+?Zelig
+source("FinalProject.R",echo=T)
+f=file('/Users/chadgevans/Desktop/PythonDocs/MSTCorpus/10.txt',open='r')
+lines=readLines(f)
+f=file('/Users/chadgevans/Desktop/PythonDocs/MSTCorpus/10.txt','r')
+lines=readLines(f)
+f=file('/Users/chadgevans/Desktop/PythonDocs/MSTCorpus/10.txt','r')
+lines=readLines(f)
+f=file('/Users/chadgevans/Desktop/PythonDocs/MSTCorpus/9.txt','r')
+lines=readLines(f)
+f=file('/Users/chadgevans/Desktop/PythonDocs/MSTCorpus/1.txt','r')
+lines=readLines(f)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Final Project#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+library(xtable)
+# First, the MST Articles Published in English#
+setwd("/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTEnglishCorpus/")#
+dirname="/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTEnglishCorpus"#
+listoffiles=dir(dirname)#
+for (name in listoffiles){print(name)}#
+for (name in listoffiles) { f <- file(name); lines <- readLines(f); print(lines[1]) } # THIS is the YEAR for my docs!!!!#
+docList <- sapply(listoffiles,readLines)#
+docList <- sapply(docList,paste,collapse="\n")#
+CorpusEnglish <- paste(docList,collapse='\n\n')#
+f = file('MSTEnglishCorpus.txt') #
+writeLines(CorpusEnglish,f) #
+close(f)

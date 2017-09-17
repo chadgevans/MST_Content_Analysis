@@ -1,0 +1,175 @@
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('VectMSTengCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])
+dim(data)#
+data[1:10,1:10]#
+vs=as.matrix(data[-c(1:3)])
+vs[1:10,1:10]
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('speechVectors.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])
+dim(data)#
+data[1:10,1:10]
+data[1:5,1:10]
+data[1:3,1:10]
+data[1:10,1:3]
+dim(data)
+data[1:12,1:3]
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('VectMSTengCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])#
+#
+#
+dim(data)#
+data[1:10,1:10]
+dim(data)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('VectMSTengCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])#
+year=c(2008,2006,2009,2003,2004,2007,2005,2007,2003,2010,2006,2009,2009,2007,2003,2009,2000,2000,2005,2010,2004,2007,2001,2008,1997,2007,2004,2009,2007,2008,2000,2009,2003,2009,2006,2007,2008,2008,2008,2008,2009,2009,2002,2006,2003,2010,2003,2005,1998,2010,2011,2007)
+dim(data)#
+vs=as.matrix(data)
+rownames(vs)=year
+sim=vs %*% t(vs)#
+hist(sim)#
+dissim=1-sim#
+dissim=as.dist(dissim)#
+hist(dissim)
+hcl=hclust(dissim)#
+plot(hcl)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('VectMSTengCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data[-c(1:3)])
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('VectMSTengCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data)
+rownames(vs)
+names=c(2008.oth,2006.pol,2009.oth,2003.dev,2004.laps,2007.dev,2005.edu,2007.lap,2003.edu,2010.Hea,2006.olj,2009.lap,2009.oth,2007.oth,2003.agr,2009.fem,2000.lap,2000.lap,2005.oth,2010.dev,2004.geo,2007.lap,2001.geo,2008.agr,1997.oth,2007.lag,2004.lap,2009.oth,2007.pol,2008.oth,2000.lap,2009.lap,2003.laps,2009.agr,2006.laps,2007.hea,2008.agr,2008.hea,2008.agr,2008.pol,2009.geo,2009.olj,2002.oth,2006.lap,2003.dev,2010.oth,2003.agr,2005.agr,1998.edu,2010.jlag,2011.lap,2007.lag)
+names=c("2008.oth","2006.pol","2009.oth","2003.dev","2004.laps","2007.dev","2005.edu","2007.lap","2003.edu","2010.Hea","2006.olj","2009.lap","2009.oth","2007.oth","2003.agr","2009.fem","2000.lap","2000.lap","2005.oth","2010.dev","2004.geo","2007.lap","2001.geo","2008.agr","1997.oth","2007.lag","2004.lap","2009.oth","2007.pol","2008.oth","2000.lap","2009.lap","2003.laps","2009.agr","2006.laps","2007.hea","2008.agr","2008.hea","2008.agr","2008.pol","2009.geo","2009.olj","2002.oth","2006.lap","2003.dev","2010.oth","2003.agr","2005.agr","1998.edu","2010.jlag","2011.lap","2007.lag")
+table(names)
+names=c("2008.oth1","2006.pol","2009.oth1","2003.dev1","2004.laps","2007.dev","2005.edu","2007.lap1","2003.edu","2010.Hea","2006.olj","2009.lap1","2009.oth2","2007.oth","2003.agr1","2009.fem","2000.lap1","2000.lap2","2005.oth","2010.dev","2004.geo","2007.lap2","2001.geo","2008.agr1","1997.oth","2007.lag1","2004.lap","2009.oth3","2007.pol","2008.oth2","2000.lap3","2009.lap2","2003.laps","2009.agr","2006.laps","2007.hea","2008.agr2","2008.hea","2008.agr3","2008.pol","2009.geo","2009.olj","2002.oth","2006.lap","2003.dev2","2010.oth","2003.agr2","2005.agr","1998.edu","2010.jlag","2011.lap","2007.lag2")
+table(names)
+Bjournals=c("2001.ea","2006.oth","2004.edu","2009.capa","2010.edu","2001.edu","2007.ced","2009.soc","2005.soc","2001.oth","2004.fem","2004.fem","2006.oth","2004.fem","2010.edu","2007.edu","2007.psy","2006.psy","2007.oth","2003.oth","2007.edu","2008.hea","2004.oth","2010.psy","2010.capa","2006.edu","2009.geo","2010.other","2006.agr","1997.hea","2010.psy","2006.lit","2009.geo","2007.edu","2003.oth","2009.capa","2007.ced","2001.oth","2009.sci","2008.oth","2008.oth","2004.anth","2007.psy","2007.hea","2009.oth","2003.soc","2005.psy","2001.hea","2008.soc","2007.fem","2009.oth","2002.psy","2000.soc","2006.psy","2004.fem","2004.oth","2007.oth","2007.ced","2007.ced","2008.oth","2009.soc","2004.fem","2010.edu","2009.oth","2007.ced","2004.lit","2008.edu","2005.soc","2007.ced","2010.psy","1998.sci","2007.lit","2002.edu","2004.fem","2007.ced","2007.sci","2007.oth","2004.edu","2009.edu","2005.hea","2006.oth","2001.ea","2009.edu","2009.oth","2008.oth")
+table(Bjournals)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+library(xtable)#
+#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('VectMSTbrazCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data)#
+#
+Byear=c(2001,2006,2004,2009,2010,2001,2007,2009,2005,2001,2004,2004,2006,2004,2010,2007,2007,2006,2007,2003,2007,2008,2004,2010,2010,2006,2009,2010,2006,1997,2010,2006,2009,2007,2003,2009,2007,2001,2009,2008,2008,2004,2007,2007,2009,2003,2005,2001,2008,2007,2009,2002,2000,2006,2004,2004,2007,2007,2007,2008,2009,2004,2010,2009,2007,2004,2008,2005,2007,2010,1998,2007,2002,2004,2007,2007,2007,2004,2009,2005,2006,2001,2009,2009,2008)
+Bnames=c("2001.ea1","2006.oth1","2004.edu1","2009.capa1","2010.edu1","2001.edu","2007.ced1","2009.soc1","2005.soc1","2001.oth1","2004.fem1","2004.fem2","2006.oth2","2004.fem3","2010.edu2","2007.edu1","2007.psy1","2006.psy1","2007.oth1","2003.oth1","2007.edu2","2008.hea","2004.oth1","2010.psy1","2010.capa","2006.edu","2009.geo1","2010.other","2006.agr","1997.hea","2010.psy2","2006.lit","2009.geo2","2007.edu3","2003.oth2","2009.capa2","2007.ced2","2001.oth2","2009.sci","2008.oth1","2008.oth2","2004.anth","2007.psy2","2007.hea","2009.oth1","2003.soc","2005.psy","2001.hea","2008.soc","2007.fem","2009.oth2","2002.psy","2000.soc","2006.psy2","2004.fem4","2004.oth2","2007.oth2","2007.ced3","2007.ced4","2008.oth3","2009.soc2","2004.fem5","2010.edu3","2009.oth3","2007.ced5","2004.lit","2008.edu","2005.soc2","2007.ced6","2010.psy3","1998.sci","2007.lit","2002.edu","2004.fem6","2007.ced7","2007.sci","2007.oth3","2004.edu2","2009.edu1","2005.hea","2006.oth3","2001.ea2","2009.edu2","2009.oth4","2008.oth4")
+dim(data)#
+vs=as.matrix(data)#
+rownames(vs)=Bnames
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# Clustering#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+library(xtable)#
+#
+setwd("/Users/chadgevans/Desktop/R/Clustering")#
+#
+data=read.table('VectMSTbrazCorpus.txt',sep='\t',header=TRUE,quote='"',as.is=TRUE)#
+vs=as.matrix(data)#
+#
+Byear=c(2001,2006,2004,2009,2010,2001,2007,2009,2005,2001,2004,2004,2006,2004,2010,2007,2007,2006,2007,2003,2007,2008,2004,2010,2010,2006,2009,2010,2006,1997,2010,2006,2009,2007,2003,2009,2007,2001,2009,2008,2008,2004,2007,2007,2009,2003,2005,2001,2008,2007,2009,2002,2000,2006,2004,2004,2007,2007,2007,2008,2009,2004,2010,2009,2007,2004,2008,2005,2007,2010,1998,2007,2002,2004,2007,2007,2007,2004,2009,2005,2006,2001,2009,2009,2008)
+Bnames=c("2001.ea1","2006.oth1","2004.edu1","2009.capa1","2010.edu1","2001.edu","2007.ced1","2009.soc1","2005.soc1","2001.oth1","2004.fem1","2004.fem2","2006.oth2","2004.fem3","2010.edu2","2007.edu1","2007.psy1","2006.psy1","2007.oth1","2003.oth1","2007.edu2","2008.hea","2004.oth1","2010.psy1","2010.capa","2006.edu","2009.geo1","2010.other","2006.agr","1997.hea","2010.psy2","2006.lit","2009.geo2","2007.edu3","2003.oth2","2009.capa2","2007.ced2","2001.oth2","2009.sci","2008.oth1","2008.oth2","2004.anth","2007.psy2","2007.hea","2009.oth1","2003.soc","2005.psy","2001.hea","2008.soc","2007.fem","2009.oth2","2002.psy","2000.soc","2006.psy2","2004.fem4","2004.oth2","2007.oth2","2007.ced3","2007.ced4","2008.oth3","2009.soc2","2004.fem5","2010.edu3","2009.oth3","2007.ced5","2004.lit","2008.edu","2005.soc2","2007.ced6","2010.psy3","1998.sci","2007.lit","2002.edu","2004.fem6","2007.ced7","2007.sci","2007.oth3","2004.edu2","2009.edu1","2005.hea","2006.oth3","2001.ea2","2009.edu2","2009.oth4","2008.oth4")
+dim(data)#
+vs=as.matrix(data)#
+rownames(vs)=Bnames
+sim=vs %*% t(vs)#
+hist(sim)#
+dissim=1-sim#
+dissim=as.dist(dissim)#
+hist(dissim)
+hcl=hclust(dissim)#
+plot(hcl)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# SuperDoc#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+setwd("/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTBrazilCorpus")#
+dirname="/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTBrazilCorpus"#
+#
+listoffiles=dir(dirname)#
+for (name in listoffiles){print(name)}#
+for (name in listoffiles) { f <- file(name); lines <- readLines(f); print(lines[1]) } # THIS is the YEAR for my docs!!!!
+for (name in listoffiles) { f <- file(name); lines <- readLines(f); print(lines[2]) } # THIS is the YEAR for my docs!!!!

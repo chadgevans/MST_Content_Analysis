@@ -1,0 +1,64 @@
+land=c("reform - 387","occupations - 190","rights - 100","redistribution - 41","ownership - 27")#
+politcal=c("parties - 49","economy - 32", "social - 29","system - 26","ecology - 25")#
+rural=c("workers - 227","women - 94","social - 71","labor - 47","areas - 42")#
+work=c("land - 11","MST - 9","together - 6","carried - 4", "done - 4")#
+fight=c("land - 13","agrarian - 2", "capitalism - 2","legal - 2","access - 1")#
+state=c("university - 27","power - 22","level - 14","national - 12","repression - 12")#
+education=c("program - 47","social - 12","health - 10","children - 6","citizenship - 5")#
+feminism=c("left - 2","women - 2", "class - 1","consciousness - 2","movement - 1")#
+health=c('care - 48',"services - 25","movement - 10","system - 10","education - 8")#
+access=c("land - 78","health - 14","credit - 11","care - 10", "public - 7")#
+e=rbind("land","rural","work","fight","state","education","feminism","health","access")
+e
+land
+JournalCat=c("Other","Politics Journals","Other","Development Journals","Latin American Politics and Society","Development Journals","Education Journals","Latin American Perspectives","Education Journals","Health Journals","Other 'Latin American' Journals","Latin American Perspectives","Other","Other","Agriculture Journals","Journal of International Women's Studies","Latin American Perspectives","Latin American Perspectives","Other","Development Journals","Geography Journals","Latin American Perspectives","Geography Journals","Agriculture Journals","Other","Journal of Latin American Geography","Latin American Perspectives","Other","Politics Journals","Other","Latin American Perspectives","Latin American Perspectives","Latin American Politics and Society","Agriculture Journals","Latin American Politics and Society","Health Journals","Agriculture Journals","Health Journals","Agriculture Journals","Politics Journals","Geography Journals","Other 'Latin American' Journals","Other","Latin American Perspectives","
+Development Journals","Other","Agriculture Journals","Agriculture Journals","Education Journals","Journal of Latin American Geography","Latin American Perspectives","Journal of Latin American Geography")#
+tJC=table(JournalCat)
+tJC
+abbrev=c("agr","dev","edu","geo","hea","fem","jlag","lap","laps","oth","olj","pol")#
+formal=c("Agriculture Journals","Development Journals","Education Journals","Geography Journals","Health Journals","Women's Studies","Journal of Latin American Geography","Latin American Perspectives","Latin American Politics and Society","Other","Other 'Latin American' Journals","Political Journals")#
+f=cbind(formal,abbrev)
+f
+f=as.table(f)
+f=as.matrix(f)
+f
+library(xtable)
+xtable(f)
+B2journals=c("Other","Other","Capa","Education Journals","Other","Women's Studies","Other","Psychology Journals","Other","Other","Health Journals","Other","Psychology Journals","Capa","Education Journals","Geography Journals","Other","Agriculture Journals","Health Journals","Psychology Journals","Literature Journals","Geography Journals","Education Journals","Other","Capa","Cedi","Other","Science Journals","Other","Other","Anthropology Journals","Psychology Journals","Health Journals","Other","Sociology Journals","Psychology Journals","Health Journals","Sociology Journals", "Women's Studies","Other","Psychology Journals","Sociology Journals","Psychology Journals","Women's Studies","Other","Other","Cedi","Other","Sociology Journals","Women's Studies","Education Journals","Other","Cedi","Literature Journals","Education Journals","Sociology Journals","Cedi","Science Journals","Literature Journals","Education Journals","Women's Studies","Science Journals","Other","Education Journals","Education Journals","Healt
+h Journals","Other","Education Journals","Other","Other")#
+BrazilJT=table(B2journals)
+BrazilJT
+abbrev=c("agr","anth","capa","ced","edu","geo","hea","lit","oth","psy","sci","soc","fem")#
+formal=c("Agriculture Journals","Anthropology Journals","Capa","Cedi","Education Journals","Geography Journals","Health Journals","Literature Journals","Other","Psychology Journals","Science Journals","Sociology Journas","Women's Studies")#
+f=cbind(formal,abbrev)#
+f=as.matrix(f)#
+xtable(f)
+library(xtable)
+abbrev=c("agr","anth","capa","ced","edu","geo","hea","lit","oth","psy","sci","soc","fem")#
+formal=c("Agriculture Journals","Anthropology Journals","Capa","Cedi","Education Journals","Geography Journals","Health Journals","Literature Journals","Other","Psychology Journals","Science Journals","Sociology Journas","Women's Studies")#
+f=cbind(formal,abbrev)#
+f=as.matrix(f)#
+xtable(f)
+# Chad Evans#
+# Quarter 2#
+# Content Analysis#
+# SuperDoc#
+rm(list=ls())#
+library(foreign)#
+library(cluster)#
+library(stats)#
+#
+setwd("/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTBrazilCorpus")#
+dirname="/Users/chadgevans/Desktop/PythonDocs/MSTFiles/MSTBrazilCorpus"#
+#
+listoffiles=dir(dirname)#
+for (name in listoffiles){print(name)}#
+for (name in listoffiles) { f <- file(name); lines <- readLines(f); print(lines[1]) } # THIS is the YEAR for my docs!!!!#
+#
+docList <- sapply(listoffiles,readLines)#
+docList <- sapply(docList,paste,collapse="\n")#
+corpus <- paste(docList,collapse='\n\n')#
+f = file('PurgedMSTBrazilCorpus.txt')#
+writeLines(corpus,f) #
+close(f)
+length(listoffiles)

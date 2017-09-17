@@ -1,0 +1,408 @@
+2009
+Revista Brasileira de Educação
+Escolarização em assentamentos no estado de São Paulo: uma análise da Pesquisa Nacional de Educação na Reforma Agrária 2004
+Maria Clara Di Pierro Universidade de São Paulo, Faculdade de Educação
+Marcia Regina Andrade
+Fundação Instituto de Terras do Estado de São Paulo
+Introdução
+O sistema de ensino paulista teve crescimento contínuo ao longo das últimas décadas, observando-se a tendência à universalização do acesso de crianças e adolescentes ao ensino fundamental ao lado de um crescimento de oportunidades de ingresso dos jovens no ensino médio.1 A expansão da provisão pública dessas etapas e modalidades da educação básica foi concomitante à intensa urbanização da população, com repercussões sobre as políticas de educação rural. Operando com a premissa de que a população que permanece no campo é residual, os governos paulistas, que na segunda metade da década de 1980 haviam criado programas de nucleação e melhoria das escolas rurais, nos anos de 1990 promoveram o trans-
+1	Em 2004, a taxa bruta de frequência à escola da população paulista de 7 a 14 anos alcançou 98,5%, e a taxa líquida de fre- quência ao ensino fundamental foi de 96,3%. Na faixa etária de 15 a 17 anos, a taxa bruta de frequência à escola era de 86,9%, e a taxa líquida de frequência ao ensino médio era de 66,5% (Fonte: IBGE. Síntese dos Indicadores Sociais, 2005).
+porte escolar dos estudantes do campo para as escolas urbanas. Esse processo se intensificou com a munici- palização do ensino, induzida pela implantação, em 1996, do Fundo de Desenvolvimento e Manutenção do Ensino Fundamental e Valorização do Magistério (FUNDEF).2
+As estatísticas educacionais evidenciam o de- créscimo no número de escolas e matrículas na zona rural paulista ao longo dos últimos dez anos (Tabelas 1 e 2), mas os dados demográficos revelam que um contingente bem mais numeroso de pessoas que vivem na zona rural participa do sistema de ensino, o que demonstra o processo de urbanização da escolariza- ção da população paulista. Em 2003, por exemplo, enquanto o Censo Escolar do Instituto Nacional de Estudos e Pesquisas Educacionais (INEP) registrava
+2 Em1995,11,5%dosmunicípiospaulistasseresponsabiliza- vam pelo ensino fundamental; em 2001, 82% o faziam. A matrícula no ensino fundamental municipal teve incremento de 166% entre 1996 e 2002, ano em que as redes municipais de ensino assumiram 32% da matrícula total no ensino fundamental no Estado de São Paulo (Martins, Oliveira & Bueno, 2004).
+246
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+Escolarização em assentamentos no estado de São Paulo
+160.442 estudantes matriculados em escolas na zona rural no estado de São Paulo, a Pesquisa Nacional por Amostra de Domicílios (PNAD) do Instituto Brasileiro de Geografia e Estatística (IBGE) contabilizava 590 mil estudantes paulistas vivendo no campo.
+Nesse percurso, embora seja possível constatar a ampliação de oportunidades de acesso da população ru- ral à educação escolar e eventual melhoria de condições materiais do estudo, acentuou-se o histórico problema da inadequação das bases culturais dos currículos, da organização escolar e das práticas pedagógicas, cuja
+referência dominante – quando não exclusiva – é a vida urbana (Whitaker, 1992).
+Tabela 1: São Paulo: evolução do número de escolas públicas na área rural – 1995/2005 Tipo	Escolas autônomas	Escolas unidocentes vinculadas Rede	Estadual	Municipal Total	Estadual	Municipal	Total
+Ano N % N %	N % N % 1995	660	89,8	75	10,2	735 3.157	91,5	294	8,5 3.451 2000 314 44,3 601 65,7 915 710 51,1 681 48,9 1.391 2005 219 25,4 644 74,6 863 266 27,6 698 72,4 964
+Fonte: CIE. SEESP (para 1995 – LDE/CIE; para anos subsequentes, Censo Escolar).
+Tabela 2: São Paulo: evolução das matrículas na educação básica na área rural por etapa e modalidade de ensino – 1995/2005
+Ano
+1995 2000 2005 Variação %
+Educ. Infantil
+8.478 17.405 22.494
++14.016 +165,5
+Ensino Fundamental 1a a 4a séries 5a a 8a séries
+Ensino Médio
+8.414
+8.326 22.324 +13.910 +165,4
+Educação de Jovens e Adultos 1a a 4a séries 5a a 8a séries Ensino Médio
+Total
+166.091 105.547 77.659 -88.432 -53,3%
+41.480 48.464 39.198 -2.282
+-5,5
+2.468 1.907 1.252
+-1.216 -49,3
+337 1.484 1.381 +1.044 +309
+-	227.268 1.488	184.621 1.029	165.337 -	-61.931 -	-27,2%
+Fonte: CIE. SEESP (para 1995 – LDE/CIE; para anos subsequentes, Censo Escolar).
+Os assentamentos rurais são focos de resistência às políticas de nucleação e transporte escolar para as cidades, resistência esta vinculada à reivindicação dos movimentos sociais de luta pela terra em favor da permanência e (re)construção de uma rede de escolas no próprio campo, concebida como locus de concretização de um projeto educacional integrado ao universo simbólico e cultural do campesinato e a seu projeto político de transformação social (Caldart, 1997, 2000; CNEC, 2004).
+Os assentamentos rurais no estado de São Paulo e a educação
+A história da ocupação do território paulista ao longo do século XX foi marcada por frequentes disputas pela propriedade da terra, dentre as quais se sobressaem os conflitos fundiários que, desde os anos de 1960, se desenvolveram no Pontal do Paranapanema, envolvendo posseiros, boias-frias e trabalhadores desempregados pela conclusão das obras das grandes hidrelétricas da região. O mo-
+vimento social pela reforma agrária adquiriu nova configuração no início da década de 1980, quando ocorreram ocupações de terras em várias regiões do estado protagonizadas pelo nascente Movimento dos Trabalhadores Rurais Sem Terra, que contou com apoio de setores da Igreja católica. As primeiras ocupações ocorreram na primeira metade da década de 1980, na Fazenda Pirituba, situada nos municípios de Itapeva e Itaberá. Outras ocupações ocorreram em Sumaré, na região de Campinas, onde a interiorização da indústria desencadeou intensa urbanização e atraiu elevado contingente de migrantes de outros estados, boa parte dos quais provenientes do campo, onde haviam sido expropriados da terra.
+A intervenção governamental na mediação dos conflitos veio a reboque da demanda dos trabalhadores rurais organizados na luta pelo acesso à terra. O gover- no estadual, sob a administração de Franco Montoro, definiu uma política fundiária de assentamentos com base no aproveitamento de terras públicas ociosas ou subaproveitadas mediante a concessão de uso da terra a trabalhadores que a demandavam.
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+247
+Cabe registrar que a política de assentamento não se confunde com um processo de reforma agrária (que implicaria mudanças de maior porte e impacto socioeconômico), configurando tão-somente uma nova modalidade de alocação da população rural “num contexto preciso de redistribuição da proprie- dade fundiária, tendo como origem a transferência da população beneficiária e, como consequência, sua necessária readaptação a um novo espaço de vida e de trabalho” (Bergamasco & Norder, 1997). Esse modo de ocupação produz uma unidade de sociabilidade marcada pelo sentimento de pertencimento a um espaço geográfico delimitado pelas estreitas relações sociais de vizinhança, compadrio e parentesco e pelos laços de solidariedade; o assentamento é, assim, um espaço que possibilita a reorganização do modo de vida das famílias.
+O assentamento rural conquistado na luta pela terra significa, para as famílias de trabalhadores rurais, a abertura de novos horizontes de inserção econômica, social e política e o ponto de partida para novas demandas por direitos e participação. A própria categoria social – assentado/a – é expressão dessa identidade em construção. Nesse processo, a educação básica emerge como uma das primeiras demandas da população, relacionada à escolarização e qualificação profissional das novas gerações e também dos jovens e adultos, para os quais se colocam novas exigências de letramento relacionadas à gestão técnica, econômica e ambiental do empreendimento agrícola, à organização sociopolítica dos assentamentos e sua representação perante os poderes públicos.
+Estudos sobre o impacto da reforma agrária reconhecem que o contexto dos assentamentos tende a ativar demandas educacionais, favorecendo a esco- larização das novas gerações e das pessoas adultas (Bergamasco, Souza & Chaves, 2005; Leite et al., 2004, p. 102). Abramovay e Rua (2001) verificaram que nos assentamentos há uma “noção muito clara do papel desempenhado pela educação no desenvolvi- mento pessoal e coletivo, na construção da cidadania e no aumento de oportunidades de realização pessoal e bem-estar da comunidade”; constataram também
+que os assentados “atribuem grande valor à educação, em suas diversas acepções, e são capazes de muitos esforços para superar tanto os obstáculos ao pros- seguimento de estudos como a baixa qualidade do ensino e as difíceis condições de frequência à escola nos assentamentos” (p. 94).
+Assim como os assentados e as lideranças dos movimentos sociais, também os gestores governamen- tais e os agentes de extensão rural (sejam eles órgãos governamentais, universidades, organizações não- governamentais ou empresas privadas) convergem sobre a necessidade de elevar os níveis de escolariza- ção dos assentados como requisito para a organização comunitária, o desenvolvimento tecnológico e o êxito econômico dos assentamentos.
+Esse é o cenário em que o conhecimento das dimensões e características da demanda e da oferta educacional nos assentamentos da reforma agrária ga- nha relevância, justificando o estudo cujos resultados são apresentados neste artigo, que privilegia o tema da escolarização de jovens e adultos.
+A Pesquisa Nacional de Educação na Reforma Agrária no estado de São Paulo
+A Pesquisa Nacional de Educação na Reforma Agrária (PNERA) foi realizada pelos Ministérios do Desenvolvimento Agrário (MDA) e da Educação (MEC), por intermédio do Instituto Nacional de Co- lonização e Reforma Agrária (INCRA) e do INEP, com a finalidade de obter um diagnóstico da situação educacional nos assentamentos rurais que subsidias- se políticas de educação do campo. De abrangência nacional, o levantamento foi realizado em fins de 2004 em 5.595 assentamentos rurais de todo o país, distribuídos em 1.651 municípios brasileiros, pro- pondo recensear todos os assentamentos legalizados a partir de 1985.
+Para uma completa caracterização dos aspectos da demanda e das condições de oferta de educação escolar, foram utilizados três instrumentos de coleta de informações junto a três públicos distintos: professores e dirigentes de escolas situadas nos assentamentos
+248
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+Maria Clara Di Pierro e Marcia Regina Andrade
+Escolarização em assentamentos no estado de São Paulo
+rurais ou em seu entorno imediato; presidentes de as- sociações de produtores rurais; e famílias assentadas. A pesquisa se propôs cobrir as unidades de ensino existentes em todos os assentamentos rurais ou no seu entorno, identificando 8.679 escolas; da mesma forma, foram entrevistadas lideranças comunitárias de todos os assentamentos visitados; e, no que se refere à população assentada, foi investigada uma amostra representativa das 524.868 famílias.
+No estado de São Paulo, a PNERA colheu in- formações em 166 assentamentos localizados em 58 municípios, entrevistando 85 responsáveis por escolas localizadas em 31 municípios (atendendo a 50 assentamentos)3 e 166 lideranças de associações de agricultores assentados. Foi entrevistada também uma amostra de 300 famílias distribuídas em 15 as- sentamentos (8,9% dos 168 assentamentos legalmen- te constituídos até aquela data), sendo sete criados
+pelo governo federal e oito pelo governo estadual. Os dados sobre os 1.339 membros dessas famílias permitem inferir as características do conjunto da população assentada no estado, estimada naquela data em 47.360 pessoas.
+Características demográficas das famílias pesquisadas
+A distribuição da população assentada por gru- pos etários (Tabela 3) apresentou 36,4% do total com idades inferiores aos 20 anos. Essa proporção era ligeiramente superior à média estadual, possivelmente em virtude das taxas de fecundidade mais elevadas sistematicamente observadas entre as populações afro- descendentes, de origem rural e com escassos recursos econômicos, das quais provêm majoritariamente as famílias assentadas.
+Tabela 3: Distribuição etária da amostra da população assentada no estado de São Paulo
+Amostra de população assentada Homens	Mulheres
+N%N%
+Estado de São Paulo
+Faixa etária
+0 a 3 anos 4 a 6 anos 7 a 10 anos 11 a 14 anos 15 a 19 anos
+20 a 24 anos 25 a 29 anos 30 a 34 anos 35 a 39 anos 40 a 44 anos 45 a 49 anos
+50 anos ou mais Total
+Total	%
+Total
+2.657.764 1.934.966 2.555.877 2.608.675 3.494.977
+3.718.752 3.572.230 3.229.869 3.020.473 2.811.741 2.448.984
+7.272.468 39.326.776
+%
+77	5,7
+68	5,1 101	7,5 107	8,0 135	10,1
+120	8,9 95	7,1 101	7,5 95	7,1 87	6,5 77	5,7
+276	20,6 1.340	100,0
+40	52 38	56 48	48 59	55 74	55 73	61 53	56 48	48 52	55 51	59 36	47
+157	57 730	54,5
+37	48 30	44 53	52 48	45 61	45 47	35 42	44 53	52 43	45 36	41 41	53
+119	43 610	45,5
+6,6 4,9 6,4 6,6 8,9
+9,4 9,1 8,2 7,7 7,1 6,2
+18,5 100,0
+Fontes: PNERA 2004 – Questionário das famílias (INEP). Projeção de população residente do estado de São Paulo em 1 jul. 2004
+(Fundação SEADE). 3
+3	Os dados obtidos pela PNERA foram coletados com crité- rios que diferem daqueles do Censo Escolar, segundo o qual havia em 2005, no estado de São Paulo, 20 escolas públicas em assen- tamentos rurais distribuídas em 16 municípios, nas quais estavam matriculados 4.191 estudantes, 55% dos quais inscritos nas redes municipais e 45% na rede estadual de ensino. Quase metade (49%) das matrículas havia sido efetuada nas séries iniciais do ensino
+fundamental e uma quarta parte (24,4%) nas séries finais do ensino fundamental. Uma proporção de 15% das matrículas foi registrada na educação infantil (e na pré-escola em especial), toda ela atendida pelas redes municipais de ensino. O ensino médio recebeu menos de 9% das matrículas, concentradas no Pontal do Paranapanema. A Educação de Jovens e Adultos de nível fundamental recebeu apenas 2,5% do total de matrículas.
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+249
+Maria Clara Di Pierro e Marcia Regina Andrade
+De outro lado, a população adulta entre os 20 e 50 anos de idade é proporcionalmente menor que a média estadual, provavelmente em virtude da migração dos jovens para as zonas urbanas em busca de melhores oportunidades de trabalho e renda. O resultado é uma população adulta dos assentamentos relativamente envelhecida, em que um quinto do total tem mais de 50 anos.
+No que concerne à distribuição da população por sexo, diferentemente do conjunto da população pau- lista, em que as mulheres configuram ligeira maioria (51%), a população assentada é predominantemente masculina (54,5%). Na amostra pesquisada, o dese- quilíbrio entre os sexos é mais acentuado entre os jovens do grupo de idade entre 20 e 24 anos, o que se deve à maior intensidade do êxodo rural feminino na juventude em busca de melhores oportunidades de estudo, trabalho e matrimônio, fenômeno este já documentado pela literatura específica (Abramovay, Mello & Silvestro, 2003; Brumer, 2006).
+Quanto à composição étnico-racial da popula- ção assentada (Tabela 4), a maioria é branca, mas o subgrupo afrodescendente (formado pela agregação de pretos e pardos) representa 43,9%, proporção esta bem superior àquela da média da população paulista, que é de 28,3%; a percentagem de negros entre os assentados é similar àquela dos 20% mais pobres da população paulista (43,5%).4
+Tabela 4: Amostra da população assentada e total do estado de São Paulo por raça/cor
+Fontes: PNERA 2004 – Questionário das famílias (INEP). IBGE. PNAD 2004 (Fundação SEADE).
+4 Indicadores de Desigualdade Racial 2004 (http://www. seade.gov.br/produtos/idr/principal_ind2.php).
+O acesso à educação escolar nos assentamentos rurais do estado de São Paulo
+A PNERA identificou e pesquisou as característi- cas de 85 instalações escolares situadas na zona rural paulista localizadas dentro ou nas imediações dos assen- tamentos federais ou estaduais criados a partir de 1985. Essas 85 escolas estavam situadas em 31 municípios e atendiam a 50 assentamentos, o que correspondia a 30% do total existente no estado. O fato de que a PNERA não tenha encontrado unidades de ensino na maior parte dos assentamentos é evidência adicional de que a maioria da população estudantil dos assentamentos paulistas frequenta escolas na zona urbana.
+A maioria das unidades escolares que atendiam os assentamentos rurais paulistas era mantida pelo poder público municipal (50%) e estadual (40%).5 Uma pro- porção expressiva das escolas de ensino fundamental mantinha turmas multisseriadas (44,6%), justificadas pelo reduzido número de alunos inscritos em cada série ou ciclo (77%) e pela falta de espaços para distribuir os estudantes em séries ou ciclos (15,4%).
+Segundo as informações prestadas pelos respon- sáveis – diretores, professores ou funcionários –, esses 85 estabelecimentos escolares acolhiam, em 2004, quase dez mil estudantes da Educação Básica (Tabela 5). A maior parte das unidades de ensino e 63% das matrículas se concentravam no ensino fundamental, especialmente nas séries iniciais (36%). O acesso à escola no grupo de 7 a 10 anos foi universalizado. O ensino médio era oferecido em apenas 18% das escolas localizadas nos assentamentos e imediações, e absorvia 15% do total de estudantes nelas inscritos. A Educação Profissional era oferecida em reduzido número de es- tabelecimentos e registrou apenas 5% das matrículas. Somente 1% dos estudantes, dispersos em 26% dos estabelecimentos, inscreveu-se na Educação Especial.6
+5 Foram registradas apenas sete escolas particulares sem fins lucrativos, sendo duas filantrópicas e cinco comunitárias de inicia- tiva de sindicato, associação ou movimento de trabalhadores rurais.
+6	Das 22 escolas que atendiam pessoas com necessidades educativas especiais, duas mantinham classes especiais e as demais
+Raça/Cor
+Assentados
+%
+Total
+%
+Branca
+746
+55,7
+27.729.151
+70,5
+Preta
+134
+10,0
+1.967.197
+5,0
+Parda
+454
+33,9
+9.153.230
+23,3
+Amarela
+0
+0,0
+416.112
+1,1
+Indígena
+5
+0,4
+58.454
+0,1
+Total
+1.339
+100,0
+39.326.776
+100,0
+250
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+Escolarização em assentamentos no estado de São Paulo
+Tabela 5: São Paulo: matrículas por sexo em escolas de assentamentos e imediações, segundo etapas e modalidades de ensino
+Etapas/Modalidades Total	Total
+Escolas	%	Alunos	%	Masc.	% 85 100	9.873	100	5.292 11 14 05 38	45	844	9	429
+-	-	858	9	434 4	5	73	1 40 51	60	3.548	36 1.808 22	26	2.590	26 1.373
+54 36 51
+51 55 51 53
+Fem.	% 4.581	46 9 64 415	49
+424	49 33	45 1.740	49 1.217	47
+Educação Infantil
+Creche Pré-escola
+Subtotal da educação infantil Alfabetização
+Ensino Fundamental 1a a 4a séries 5a a 8a séries
+Subtotal ensino fundamental regular	-	-	6.211	63 3.221
+52	2.990	48
+Ensino médio Educação
+profissional
+Básica Técnica
+15	18	1.495	15	880 3	4	100	1	72 4	5	425	4	324
+-	-	525	5	396 7	8	70	1	35 19	22	281	3	129 7	8	215	2	103 4	5	150	2	61
+-	-	716	7	328
+22	26	68	1 33
+59 72 76
+75 50 46 48 41
+46
+615	41 28	28 101	24
+129	25 35	50 152	54 112	52 89	59
+388	54
+Subtotal da educação profissional Alfabetização Educação de	1a a 4a séries
+Jovens e Adultos	5a a 8a séries Ensino médio
+Subtotal da Educ. de Jovens e Adultos
+Educação especial
+49	35	51
+Fonte: PNERA 2004 – Questionário das escolas (INEP).
+Tabela 6: População assentada em São Paulo: frequência à escola por faixa etária – 2004
+Faixa etária	Total	0/3	4/6	7/10	11/14	15/19	20/24	25/29	30/39	40/49	50 ou +
+Total da faixa	1.339	77 Frequenta 403 0
+68	101	107	135	120	95
+33 101 104 101 13 10 48,5	100	97,3	75	11	10,5 35 0 3 34 107 85
+196	164	276 21	10	10 10,7	6,1	3,6 175	154	266 89,3	93,9	96,4
+% da faixa Não frequenta % da faixa
+30	- 996	77 70	100
+51,5	-
+2,8	25	89	89,5
+Fonte: PNERA 2004 – Questionário das famílias (INEP).
+As informações prestadas pelas famílias assen- tadas (Tabela 6) evidenciaram a dificuldade de acesso à educação infantil: não existiam creches e menos da metade das crianças de quatro a seis anos tinha acesso a pré-escolas. Os dados dessa amostra de famílias confirmaram que a escolaridade obrigatória tende à universalização: não foi encontrada qualquer criança de7a10anosforadaescola;nogrupode11a14 anos, 97,2% dos adolescentes estavam matriculados (uma proporção significativa dos quais já apresentava
+adotavam a diretriz de inclusão no ensino regular; nenhuma tinha livros em braille, apenas três dispunham de algum serviço de apoio especializado e nove tinham rampas, banheiros adaptados ou outra adequação para facilitar o acesso de deficientes físicos.
+defasagem na relação idade-série ideal). A exclusão educacional se manifesta mais claramente a partir dos 14 anos de idade: 3⁄4 dos jovens entre 15 e 19 anos estu- davam, mas 1⁄4 deles já se encontrava fora da escola, o que pode estar relacionado ao ingresso na força de tra- balho, à indisponibilidade de oportunidades adequadas de escolarização na zona rural ou à combinação destes a outros fatores. O índice de frequência escolar declina acentuadamente a partir dos 20 anos de idade, oscilando entre 10 e 20% da população com idades entre 20 a 39 anos. A proporção dos adultos com 40 anos ou mais que usufruía o direito à educação era irrisória.
+Na amostra da população assentada que se en- contrava em processo de escolarização (Tabela 7), predominavam as crianças e adolescentes que cursa-
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+251
+Maria Clara Di Pierro e Marcia Regina Andrade
+Tabela 7: São Paulo: frequência escolar dos assentados por nível e modalidade de ensino
+Educação	Educação de Jovens	Superior Especial
+profissional	e Adultos
+Idade (anos) Creche Pré(1) 1a/4a 5a/8a	Básico Técnico 1a/4a(2) 5a/8a Médio
+0 a3 0 0 0	0
+4 a 6 1 28 4	0
+Etapa/Tipo	Educação infantil	Ensino
+Ensino fundamental	médio
+7 a 10	4	94	2
+1
+11 a 14	12 90 2	0
+15 a 19	3 30 55 2 7 101	2
+20 a 24	2601 001 1 2
+25 a 29	501 010 3 0
+30 a 34	001 234 2 0
+35 a 39	100 232 1 0
+40 a 44
+45 a 49
+50 ou +
+211 0 0
+420 0 0
+900 1 0
+Total (403) 1 32 113 124 69 2 10 20 10 9 8 5
+% 0,2 7,9 28,0 30,8 17,1 0,5 2,5 4,9 2,5 2,2 2,0 1,2
+(1) Inclui uma criança em classe de alfabetização; (2) Inclui oito pessoas que frequentavam alfabetização de jovens e adultos. Fonte: PNERA 2004 – Questionário das famílias (INEP).
+vam o ensino fundamental regular. Nesse grupo, 13% dos matriculados nas séries iniciais e mais de 1⁄4 dos inscritos nas séries finais já se encontravam defasados na relação idade-série ideal, em virtude de ingresso tardio, reprovações ou interrupção dos estudos. Esse fenômeno acentuava-se no ensino médio e técnico, em que respectivamente 17,4% e 30% dos estudantes tinham idade maior que 19 anos, superior à ideal para frequência a esse nível e modalidade de ensino. Mais uma vez encontramos evidência de que o atendimen- to a pessoas com necessidades educativas especiais é deficiente, pois a população inscrita na educação especial representava apenas 1,2% do total.
+O grupo de jovens e adultos inscritos na educação profissional (75%) era majoritariamen- te atendido em escolas agrotécnicas das redes públicas federal ou estadual de ensino,7 e boa
+7	O Centro Estadual de Educação Tecnológica “Paula Souza” (CEETEPS) administra 134 escolas técnicas estaduais (ETEs) e 30 faculdades de tecnologia em 113 cidades no estado. Várias ETEs oferecem habilitações relacionadas às atividades agropecuárias (agricultura, agricultura familiar, agrimensura, agroindústria, gestão de empresa rural, produção agropecuária, piscicultura) e algumas faculdades formam tecnólogos para agronegócio, coo- perativismo e associativismo.
+parte dele (58,3%) participava do Programa Jovem Empreendedor.8
+A maioria das pessoas que compunham o reduzi- do grupo de assentados que cursavam o ensino supe- rior tinha idade superior aos 25 anos, o que também denota trajetórias de escolarização descontínuas. Nes- sa amostra, a proporção de pessoas que cursou ensino técnico ou superior é irrelevante, o que significa que esses assentamentos não possuem recursos humanos próprios qualificados a desempenhar as funções sociais e econômicas básicas ligadas a saúde, educação,9
+8 Criado em 1996, o Programa de Formação de Jovens Empre- sários Rurais atende jovens de 14 a 21 anos com escolaridade mínima de 8a série do ensino fundamental provenientes da agricultura familiar em cursos de qualificação profissional. Resulta de parceria entre o CEETEPS e a Escola Superior de Agricultura Luiz Queiroz, da Universidade de São Paulo (USP). Adota a pedagogia da alternância e assessora a formação de jovens como empresários rurais capazes de dirigir seus próprios negócios de forma competitiva e sustentá- vel, aumentando o nível de renda de suas famílias e contribuindo com o desenvolvimento de suas comunidades. Em 2007, possuía seis núcleos, localizados nos municípios de Rancharia, Presidente Venceslau, Maracaí, Presidente Bernardes, Promissão e Peruíbe.
+9 Menos de 5% das famílias mencionaram conter entre seus membros pessoas que exercem a ocupação de professor(a),
+252
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+Escolarização em assentamentos no estado de São Paulo
+defesa de direitos, gestão ambiental, produção agro- pecuária, administração de cooperativas etc.
+A escolarização dos jovens e adultos assentados
+Os dados coletados junto às famílias assentadas no estado de São Paulo projetam que a população jovem e adulta com 18 anos ou mais de idade seja superior a 31 mil pessoas, a maioria das quais possui pouca escolaridade: 12% eram analfabetos absolutos e 40% tinham no máximo quatro anos de estudos (po- dendo ser classificados como analfabetos funcionais).
+O índice de analfabetismo registrado na amostra de assentados com idade superior a 15 anos – 11,9% – é superior à média da população rural do estado (Tabela 8), o que se deve sobretudo à elevada proporção de pessoas que não sabem ler ou escrever pertencentes aos grupos de idade superior a 50 anos; nos grupos com menos de 50 anos, a proporção de analfabetos na amostra da população assentada é menor que a da população rural paulista.
+Tabela 8: São Paulo: analfabetismo na população de 15 anos ou mais, por idade e situação de domicílio
+o primeiro segmento do ensino fundamental (40%), nível mais elevado de estudos alcançado pela maioria das pessoas entre 25 e 49 anos (Tabela 9). Na popu- lação com 15 anos ou mais, a proporção de pessoas que não teve acesso a qualquer estudo sistemático é equivalente à das pessoas que estudaram até o ensino médio; o analfabetismo, porém, está fortemente con- centrado no grupo de idade mais elevada (50 anos ou mais), enquanto o acesso ao ensino médio está distribuído entre os jovens e os adultos.
+Tabela 9: Escolaridade dos assentados com mais de 14 anos que não frequentavam escolas
+Maior grau
+de ensino
+frequentado Total
+Nunca frequen-
+tou escolas (inclui
+creche informal) 1a a 4a séries do
+ens. fundamental
+(regular ou EJA)* 5a a 8a séries do
+ens. fundamental
+(regular ou EJA) Ens. profissional
+de nível básico Ensino médio
+(regular ou EJA) Ens. profissional
+Total	% 821 100 137 16,7
+333 40,5
+205 24,5
+3	0,4 133 16,2 7	0,9
+15-24 141 17,2
+1 0,8
+22 6,6
+50 24,4
+0-
+64 48,1
+3 42,8
+25-49 414 50,4
+25 18,2
+186 55,8
+139 67,8
+2 66,6
+57 42,8
+3 42,8
+50 ou + 266 111
+125
+16
+1 12 1
+% 32,4 81,0
+37,5
+7,8
+33,3 9,0
+14,3
+Faixa etária
+15 anos ou + 15 a 19 anos 20 a 24 anos 25 a 29 anos 30 a 39 anos 40 a 49 anos 50 a 59 anos
+Analfabetismo em São
+Paulo(1) Pop. Pop.
+total rural 4,6% 10,3% 0,8%	0,8% 0,9%	3,2% 1,5%	- 3,4% 10,9% 4,3% 15,4% 6,6% 15,4%
+Amostra dos assentados paulistas(2)
+Total Analfabetos(3) %
+986	117 135	0 120	1
+técnico Ensino superior Educ. especial * Inclui classe de alfabetização, de crianças ou adultos. Fonte: PNERA 2004 (Questionário aplicado à amostra das famílias).
+- -
+Para atender uma demanda potencial tão extensa, ao menos 22% dos estabelecimentos situados nos assentamentos e no seu entorno tinham alguma ofer- ta de educação escolar para jovens e adultos, mas a matrícula total dessa modalidade representava apenas 7% do total (Tabela 5).
+Apesar do elevado percentual de analfabetismo, na amostra pesquisada foram encontrados apenas oito adultos em processo de alfabetização (Tabela 7), todos com mais de 40 anos de idade: 87,5% frequentavam
+60 anos ou + 15,8%
+42,1%
+Fontes: (1) Anuário Estatístico do Estado de São Paulo 2003. Seade; (2) PNERA 2004 – Questionário das famílias (INEP); (3) Pessoas que declararam não saber ler ou escrever, tendo ou não frequentado escolas no passado.
+Dentre os jovens e adultos que não estudavam por ocasião da pesquisa, a escolaridade predominante era
+metade dos quais trabalham no próprio assentamento e outra metade na cidade.
+11,9% - 0,8% 95	1	1,0% 196	6	3,0% 164	13	7,9% 130	26	20,0% 146	70	47,9%
+2	0,2 1	0,1
+0- 1 100
+2 100 0-
+%
+%
+0 0
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+253
+Maria Clara Di Pierro e Marcia Regina Andrade
+grupos do Programa Brasil Alfabetizado e 12,5% turmas do Programa Alfabetização Solidária. Segun- do os registros da PNERA, nenhum dos programas nacionais de alfabetização tem expressão nos assen- tamentos rurais paulistas, uma vez que apenas sete das 85 unidades de ensino realizavam alfabetização de jovens e adultos (Tabela 5), dispersando-se entre os programas Brasil Alfabetizado, o Programa Nacional de Educação na Reforma Agrária (PRONERA), Al- fabetização Solidária e outras iniciativas municipais ou de organizações sociais.
+A matrícula na Educação de Jovens e Adultos, que acolhia uma população distribuída nos diferentes grupos de idade, representava menos de 10% da po- pulação estudantil (Tabelas 5 e 7), proporção similar
+10 à média nacional.10
+A pesquisa identificou 16,3% dos 1.067 docentes atuando na Educação de Jovens e Adultos em 31 das 85 escolas de assentamentos, a ampla maioria dos quais devidamente habilitados nos níveis médio ou superior (Tabela 10).
+Etapa
+Tabela 10: São Paulo: presença de docentes por nível de formação, segundo etapa da Educação de Jovens e Adultos, em escolas de assentamentos – 2004
+Escolas	E. Fundamental	Magistério	Outro Médio	Pedagogia	Licenciatura N%N%N%N%N%N%
+Alfabetização 7 3,1 1
+14,3	2	28,6	0 - 5 26,3 2 - 1 16,6 0 - 0 - 0
+0	-2	28,6 1 5,2 5 26,3 1 16,6 3 50,0 1 20,0 4 80,0
+1a a 4a
+5a a 8a
+E. Médio
+19	8,4
+6	2,6
+5	2,2
+0 0 0
+Subtotal 31 13,8 1	3,2
+Fonte: PNERA 2004 – Questionário das escolas (INEP).
+8
+25,8	2	3	9,7	14	45,1
+resumido: as condições físicas de estudo eram razoá- veis, os estudantes tinham acesso aos programas de as- sistência e a maioria dos docentes possuía a habilitação requerida pela legislação, mas as escolas dispunham de poucos recursos para enriquecer o currículo e as práticas pedagógicas, cuja referência dominante continuava a ser a cultura urbana. Desse retrato da educação escolar ressaltamos três características das políticas educacio- nais e das práticas pedagógicas vigentes.
+Se os dados da PNERA revelaram melhoria relativa nas condições de ensino e estudo no campo (quando comparadas a outras regiões do país e ao passado recente), é fato que, décadas depois da lei que ampliou o ensino obrigatório para oito anos, a maioria das escolas de assentamento não oferece o ensino fundamental completo nem as condições de ensino e aprendizagem são equivalentes às unidades
+10 As matrículas na educação de jovens e adultos represen- taram 10,2% do total da educação básica no Censo Escolar 2006; quando consideradas apenas as matrículas na educação de jovens e adultos presencial, o percentual era de 8,8%.
+10A reduzida frequência à escola na idade adulta é problemática, se considerarmos os baixos índices de escolarização que essa amostra da população as- sentada apresentou. A pesquisa oferece evidência de que as oportunidades de escolarização na idade adulta são insuficientes, pois dentre as razões pelas quais uma parcela da população assentada (12,5%) critica as escolas localizadas nos assentamentos consta a insuficiência de vagas para os jovens e adultos.
+Para suprir serviços públicos insuficientes ou satisfazer necessidades específicas de formação, cerca de 40% das comunidades pesquisadas mantinham iniciativas de educação não formal, preponderando aquelas voltadas ao ensino religioso, alfabetização de jovens e adultos, capacitação agrotécnica de curta duração ou outros cursos livres.
+Uma visão panorâmica da escolarização nos assentamentos rurais paulistas
+A PNERA delineou um painel da educação escolar nos assentamentos rurais paulistas que pode ser assim
+254
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+Escolarização em assentamentos no estado de São Paulo
+de ensino situadas nas zonas urbanas, o que fere o princípio constitucional de igualdade de condições de acesso e permanência na escola.
+Aflora a evidência de que as políticas públicas das últimas décadas que privilegiam o transporte escolar dos estudantes para as escolas urbanas em detrimento da escolarização na zona rural predominam também nos territórios reformados, de modo que a oferta es- colar nos assentamentos paulistas ou em seu entorno geográfico só é significativa nas séries ou ciclos ini- ciais do ensino fundamental. O fato de que essa seja a única etapa da educação básica em que o acesso se aproxime da universalização é indicativo adicional de que a democratização das oportunidades educacionais na zona rural depende fortemente da ampliação da oferta escolar no próprio campo.
+Exceção feita ao primeiro segmento do ensino fundamental, a oferta de escolarização nos assentamen- tos ou no seu entorno é deficitária em todos os níveis e modalidades escolares, desde a educação infantil até o ensino superior, passando pela educação especial, a profissional e a de Jovens e Adultos, o que impõe o deslocamento diário ou a migração para as cidades para fruir o direito a uma educação que, na maioria das vezes, não contribui para a formação de recursos humanos preparados para o desenvolvimento rural sus- tentado ou para a construção/manutenção da identidade sociocultural da juventude do campo, incentivando o êxodo rural. O fato de que a maior parte dos adolescen- tes, jovens e adultos assentados é obrigada a realizar seus estudos em escolas urbanas não só contraria a legislação e normas vigentes (que asseguram a crian- ças e adolescentes o estudo próximo à residência, em escolas com organização adequada, currículo relevante e práticas pedagógicas significativas), como entra em contradição com os projetos de formação humana das novas gerações e as aspirações de mudança nas relações político-econômicas, socioculturais e ambientais dos movimentos sociais do campo. Também inviabiliza a participação das famílias assentadas na gestão escolar, seja porque as escolas rurais têm pouca autonomia ou porque, em virtude da distância, as famílias não conse- guem participar da gestão das escolas urbanas.
+Essa contradição reaparece diante do terceiro resultado proporcionado pela análise dos dados da PNERA sobre as escolas dos assentamentos, relativo à persistência e dominância de concepções e práticas pedagógicas orientadas por visões dicotômica e hie- rárquica dos espaços urbano e rural que orientam os currículos e práticas pedagógicas na direção do modo de vida urbano, mantendo a escola afastada da história, da cultura, do trabalho, do ambiente e dos projetos de mudança política e econômica dos protagonistas da reforma agrária, que são as famílias assentadas e os movimentos sociais que elas organizam.11
+Indicações para a democratização da educação escolar nos assentamentos paulistas
+Os dados da PNERA 2004 oferecem numerosas “pistas” sobre iniciativas e políticas educacionais que podem, no estado de São Paulo, impulsionar a democratização de oportunidades educacionais nos assentamentos rurais, a começar pela ampliação, na própria zona rural, do atendimento na educação infantil, educação especial e Educação de Jovens e Adultos, etapas e modalidades que apresentam os maiores déficits de cobertura. A pesquisa mostrou ser necessário também ampliar as oportunidades educa- cionais para adolescentes e jovens, proporcionando acesso às séries finais do ensino fundamental e ao ensino médio (geral e profissionalizante) na própria
+11 As Diretrizes Operacionais para a Educação Básica nas Escolas do Campo aprovadas pelo Conselho Nacional de Educação em 2002 não são conhecidas pelas educadoras das escolas nos assentamentos rurais paulistas: 38% dos entrevistados afirmaram “conhecer de ouvir falar”, apenas 21% “já leram” e 41% admitem desconhecer completamente as diretrizes. Dentre a minoria que conhece a norma, 3⁄4 afirmam que ela é seguida no todo ou em parte, mas 1⁄4 reconhece que não é considerada no planejamento escolar.É provável que o predomínio de dirigentes, coordenadores e professores oriundos da zona urbana e com pouca experiência na docência com alunos do meio rural influa no fato de as escolas dos assentamentos ainda estarem longe de adquirir uma identidade com a especificidade dos sujeitos sociais que aí vivem.
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+255
+zona rural, dando preferência a alternativas de organi- zação escolar que reduzam a tensão entre educação e trabalho, como o regime de alternância e a concessão de bolsas de estudos. O desenvolvimento equitativo e sustentado dos territórios reformados requer também a ampliação de oportunidades de acesso da população assentada ao ensino superior, mediante ampliação do PRONERA, direcionamento específico do PROUNI e concessão de bolsas de estudo, preferencialmente nas carreiras destinadas à formação de recursos humanos necessários aos assentamentos (educação, saúde, ciências agrárias, meio ambiente, administração etc.).
+Não basta, entretanto, garantir apenas o acesso formal na própria zona rural; trata-se de conferir maior qualidade e pertinência à educação infantil, ao ensino fundamental e médio de crianças, jovens e adultos, mediante: ampliação e melhoria da rede física, infraestrutura e equipamento das escolas; formação continuada de professores direcionada para a con- textualização curricular e adequação da organização escolar; concessão de prioridade aos assentados no recrutamento de profissionais da educação; promoção da gestão democrática, concedendo maior autonomia às escolas rurais, incentivando a criação de grêmios estudantis e a participação das famílias.
+Para que as Diretrizes Operacionais para a Edu- cação Básica nas Escolas do Campo sejam levadas à prática, é necessário preliminarmente que elas sejam difundidas e conhecidas. Também se faz necessária a criação de uma instância responsável pelas diretrizes político-pedagógicas da educação do campo na Secreta- ria de Estado da Educação, devidamente articulada aos organismos federal (INCRA) e estadual (ITESP) de de- senvolvimento dos assentamentos rurais, às secretarias de educação dos municípios em que há assentamentos, bem como aos movimentos sociais organizados e às redes de pesquisadores do tema nas universidades.
+Referências bibliográficas
+ABRAMOVAY, Miriam; RUA, Maria das Graças. Companheiras de luta ou coordenadoras de panelas: as relações de gênero nos assentamentos rurais. Brasília: UNESCO, 2001.
+ABRAMOVAY, Ricardo; MELLO, Márcio Antonio; SILVESTRO, Milton Luiz. Sucessão hereditária e reprodução social da agricultura familiar. Agricultura, São Paulo, v. 50, n. 1, p. 11-24, 2003. BERGAMASCO, Sonia Maria P.P.; NORDER, Luiz Antonio C. O que são assentamentos. São Paulo: Brasiliense, 1997. BERGAMASCO, Sonia Maria P. P.; SOUZA, Vanilde F.; CHA- VES, Tathyana A. B. A formação escolar em assentamentos rurais: desafios para as novas gerações. In: FERRANTE, Vera Lúcia S. B.; ALY JR., Osvaldo (Orgs.). Assentamentos rurais: impasses e dilemas (uma trajetória de 20 anos). Brasília: Incra; Araraquara: Uniara, 2005. p. 389-404.
+BRUMER, Anita. A problemática dos jovens rurais na pós- modernidade. In: CONGRESO LATINOAMERICANO DE SOCIOLOGÍA RURAL, 7., Quito, 2006. Anais... Quito: s.ed., 2006. Disponível em: <www.iica.org.uy>. Acesso em: 10 jul. 2008. CALDART, R. S. Educação em movimento: formação de educa- doras e educadores do MST. Petrópolis: Vozes, 1997.
+. Pedagogia do Movimento Sem Terra. Petrópolis: Vozes, 2000.
+CONFERÊNCIA NACIONAL POR UMA EDUCAÇÃO DO CAMPO – CNEC, 2. Declaração final: por uma política pública de educação do campo. Luziânia: 2004. DI PIERRO, M. C. Situação educacional dos jovens e adultos as- sentados no Brasil: uma análise de dados da Pesquisa Nacional de Educação na Reforma Agrária. In: REUNIÃO ANUAL DAANPED, 29., Caxambu, 2006. Anais... Rio de Janeiro: ANPEd, 2006. LEITE, Sérgio; HEREDIA, Beatriz; MEDEIROS, Leonilde; PALMEIRA, Moacir; CINTRÃO, Rosângela. Impactos dos as- sentamentos: um estudo sobre o meio rural brasileiro. Brasília: IICA; São Paulo: UNESP, 2004.
+MARTINS, Angela M.; OLIVEIRA, Cleiton de; BUENO, Maria Silvia. S. Descentralização do Estado e municipalização do ensino: problemas e perspectivas. Rio de Janeiro: DP&A, 2004. RAMOS, Marisa N.; MOREIRA, T. M.; SANTOS, C. A. Referên- cias para uma política nacional de educação no campo: caderno de subsídios. Brasília: MEC/SECAD, 2004.
+SAMPAIO, Carlos Eduardo M.; MOLINA, Mônica C. (Coords.). Pesquisa Nacional de Educação na Reforma Agrária (PNERA): versão preliminar. Brasília: MEC/INEP, MDA/INCRA/PRONE- RA, 2005.
+SOARES, Edla de Araújo Lira. Diretrizes operacionais para a edu- cação básica nas escolas do campo (Parecer CEB/CNE 36/2001). Brasília: MEC/SECAD, 2002.
+256
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+Maria Clara Di Pierro e Marcia Regina Andrade
+Escolarização em assentamentos no estado de São Paulo
+WHITAKER, D. O rural urbano e a escola brasileira: ensaio de inter- pretação sociológica. Travessia, v. 5, n. 12, p. 30-35, jan./abr. 1992.
+MARIA CLARA DI PIERRO, doutora em educação pela Pontifícia Universidade Católica de São Paulo (PUC-SP), é pro- fessora da Faculdade de Educação da Universidade de São Paulo (USP) e diretora da organização não-governamental Ação Educati- va. Publicações recentes: Educação de jovens e adultos na América Latina e Caribe: trajetória recente (Cadernos de Pesquisa, v. 38, p. 367-391, 2008); com VÓVIO, Cláudia Lemos; ANDRADE, Eliane Ribeiro. Alfabetização de jovens e adultos: lições da prática (Brasília: UNESCO, 2008. Disponível em: <http://unesdoc.unesco. org/images/0016/001626/162640POR.pdf>); com GALVÃO, Ana Maria. Preconceito contra o analfabeto (São Paulo: Cortez, 2007). Pesquisa em andamento: “Políticas de educação de jovens e adultos no estado de São Paulo: análise do impacto da inclusão da modalidade no FUNDEB”. E-mail: mcpierro@usp.br
+MARCIA REGINA ANDRADE, doutora em educação pela Faculdade de Educação da Universidade Estadual de Campinas (UNICAMP), é pesquisadora da Faculdade de Economia Agrícola
+da mesma universidade e gerente de Formação, Pesquisa e Acervo da Fundação Instituto de Terras do Estado de São Paulo “José Gomes da Silva” (ITESP). Publicações mais importantes: com IOKOI, Zilda Márcia G.; REZENDE, Simone; RIBEIRO, Suzana. Vozes da terra: histórias de vida dos assentados rurais do Estado de São Paulo (São Paulo: Fundação ITESP, 2005); com DI PIERRO, Maria Clara; MOLINA, Mônica C.; JESUS, Sonia Meire de. A educação na reforma agrária em perspectiva: uma avaliação do Programa Nacional de Educação na Reforma Agrária (São Paulo: Ação Educativa; Brasília: PRONERA, 2004); O movimento sem terra e a educação: a perspectiva da construção de um novo homem e de continuidade do Movimento (In: STEDILE, João Pedro (Org.). A Reforma Agrária e a luta do MST. Rio de Janeiro: Vozes, 1997. p. 243-262). Pesquisa em andamento: “Juventude rural e projeto de vida: desafios e perspectivas para a agricultura familiar no contexto dos assentamentos rurais de São Paulo” (edital MCT/ CNPq 02/2006 – Universal, relatório em finalização). E-mail: camandra25@gmail.com
+Recebido em outubro de 2008 Aprovado em fevereiro de 2009
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+257
+semiestructuradas. El referencial teórico está apoyado en autores vinculados a la historia de la cultura escrita y al campo de las prácticas de letrar. Algunas de las conclusiones de ese trabajo indican que la escrita de los diarios es, para el agricultor, “una forma de existir en el cotidiano”, de registrar su historia y la de su familia, de dejar huellas del pasado como una “herencia” a las nuevas generaciones. Entendemos que ese estudio trae contribuciones al campo de la cultura escrita en la medida que presenta
+la escrita como una compleja y significativa práctica social y cultural. En ese sentido, tratamos a los diarios como un patrimonio de lo escrito. Palabras claves: cultura escrita; letrar; agricultor; diários.
+Roberta Araújo Teixeira
+Espaços, recursos escolares e habilidades de leitura de estudantes da rede pública municipal do Rio de Janeiro: estudo exploratório O artigo traz os resultados de um es- tudo exploratório realizado no ano de 2007 em três escolas municipais do Rio de Janeiro participantes do Projeto GERES (Estudo da Geração Escolar 2005). Considerando que os espaços escolares possuem importante dimen- são educativa e que a materialidade da escola é fator relevante na constituição de práticas escolares capazes de cons- tranger ou de estimular conhecimentos e competências, buscou-se compreen- der, no interior das escolas investiga- das, o conjunto de fazeres pedagógicos ativados que guardam relação mais direta com o desenvolvimento de ha- bilidades básicas de leitura e escrita. Foram utilizados registros fotográficos de salas de aula, cantinhos de leitura, murais e salas de leitura como fonte de dados. Identificaram-se aspectos relevantes das instituições pesquisadas pautados na natureza, disposição, usos
+e funções de espaços e objetos relacio- nados à promoção da leitura, contri- buindo para o entendimento da eficácia escolar do ponto de vista dos discursos visuais da escola como fatores promo- tores de aprendizagem. Palavras-chave: espaços escolares; eficácia escolar; habilidades de leitura.
+Spaces, school resources and reading skills of students from the Rio de Janeiro municipal school system: an exploratory study
+This paper presents the findings of an exploratory study conducted in 2007 in three municipal schools in Rio de Janeiro, Brazil, all participants in the 2005 School Generation Study (GERES) Project. As school spaces possess an important educational dimension and material aspects
+of school play a leading role in establishing educational practices that can curb or spur the dissemination of knowledge and skills, the set of teaching tasks examined in these schools focused mainly on the development of basic reading and writing skills. Data sources included photographs of classrooms, book nooks, bulletin boards and reading rooms, with significant aspects of these institutions identified by the types, layouts, uses and functions of spaces and objects designed to encourage reading. This analysis helps build up a better understanding of school effectiveness from the standpoint of the visual discourses presented by schools as factors underpinning the learning process. Key words: school spaces; school effectiveness; reading skills.
+Espacios, recursos escolares y habilidades de lectura de estudiantes de la red pública municipal de Rio de Janeiro: estudio exploratorio El artículo trae los resultados de un estudio exploratorio realizado en el año de 2007 en tres escuelas
+municipales de Rio de Janeiro participando del Proyecto GERES (Estudio de la Generación Escolar 2005). Considerando que los espacios escolares poseen importante dimensión en la educación y que la materialidad de la escuela es factor relevante en
+la constitución de prácticas escolares capaces de constreñir o de estimular conocimientos y competencias, se buscó comprender, en el interior de las escuelas investigadas, el conjunto de trabajos pedagógicos activados que guardan relación más directa con el desarrollo de habilidades básicas de lectura y escrita. Fueron utilizados registros fotográficos de salas de clase, rincones de lectura, murales y salas
+de lectura como fuente de datos. Se identificaron aspectos relevantes de las instituciones pesquisadas pautados en la naturaleza, disposición, usos
+y funciones de espacios e objetos relacionados a la promoción de la lectura, contribuyendo para el entendimiento de la eficacia escolar bajo el punto de vista de los discursos visuales de la escuela como factores promotores de aprendizaje.
+Palabras claves: espacios escolares; eficacia escolar; habilidades de lectura.
+Maria Clara Di Pierro e Marcia Regina Andrade
+Escolarização em assentamentos no estado de São Paulo: uma análise da Pesquisa Nacional de Educação na Reforma Agrária 2004
+O estudo sobre a escolarização nos assentamentos rurais do estado de São Paulo, com base nos dados da Pesquisa Nacional de Educação na Reforma Agrária 2004, constatou que o direito
+à educação só estava assegurado às crianças que frequentavam as séries iniciais do ensino fundamental; nos demais níveis e modalidades, inclusive a educação de jovens e adultos, a oferta
+390
+Revista Brasileira de Educação	v. 14	n. 41	maio/ago. 2009
+Resumos /Abstracts/Resumens
+Resumos/Abstracts/Resumens
+escolar é insuficiente. O analfabetismo absoluto alcança 12% da população jovem e adulta e 40% dela têm, no máximo, quatro anos de estudos. Só há centros educativos em 30% dos assen- tamentos, reflexo das políticas públicas que privilegiam o transporte escolar para as cidades. Embora as condições materiais de estudo fossem razoáveis, as escolas dispunham de poucos meios para enriquecer o currículo e as práti- cas pedagógicas, cuja referência domi- nante é a cultura urbana. Esta política é contestada pelos movimentos sociais, que reivindicam a construção de esco- las no campo capazes de desenvolver uma proposta educacional integrada ao universo cultural do campesinato e ao seu projeto político de transformação social.
+Palavras-chave: educação e movimen- tos sociais do campo; assentamentos rurais; educação de jovens e adultos.
+Schooling in Rural Settlements in the State of São Paulo: an analysis of the National Research on Education in the Agrarian Reform 2004 (Pesquisa Nacional de Educação na Reforma Agrária 2004)
+The study regarding schooling in rural settlements in the State of São Paulo, based on data from the National Research on Education in the Agrarian Reform 2004 (Pesquisa Nacional de Educação na Reforma Agrária 2004), verified that the right to education was only assured to those children who frequented the initial years of primary education; at the other levels and modalities, including youth and adult education, the offer
+of schooling is insufficient. Absolute illiteracy affects 12% of the youth and adult population and 40% among them have, at the most, four years of formal studies. There are educational centres in only 30% of the settlements, which is a reflex of the public policies that privilege school transport to the cities.
+Although the material conditions of study were reasonable, the schools had few resources with which to enrich the curriculum and pedagogical practices, for which the overriding reference is urban culture. This policy is contested by the social movements which demand the construction, in the countryside, of schools that are able to develop an educational proposal integrated with the cultural universe of the peasants and their political project of social transformation. Key words: education and social movements in the countryside; rural settlements; youth and adult education.
+Escolaridad en asentamientos en el Estado de São Paulo: un análisis la Encuesta de Educación en la Reforma Agraria 2004 El estudio sobre la escolaridad en los asentamientos rurales del Estado de São Paulo, con base en los datos de la Encuesta Nacional de Educación en la Reforma Agraria 2004, constató que el derecho a la educación sólo estaba asegurado a los niños que frecuentaban los primeros años de la enseñanza fundamental; en los demás niveles y modalidades, inclusive la educación de jóvenes y adultos, la oferta escolar es suficiente. El analfabetismo absoluto alcanza 12 % de la población joven y adulta y 40 % de ella tiene, en lo máximo, cuatro años de estudios. Sólo hay centros de educación en 30 % de los asentamientos, reflejo de las políticas públicas que privilegian el transporte escolar para las ciudades. Aunque las condiciones materiales de estudio fuesen razonables, las escuelas disponían de pocos medios para enriquecer el currículo y las prácticas pedagógicas, cuya referencia dominante es la cultura urbana. Esta política es contestada por los movimientos sociales, que reivindican la construcción de escuelas en el
+campo capaces de desarollar una propuesta educacional integrada al universo cultural del campesinado y a su proyecto de transformación social. Palabras claves: educación y movimientos sociales del campo; asentamientos rurales; educación de jóvenes y adultos.
+Ana Cláudia Ribeiro Tavares e Andréa Tereza Brito Ferreira
+Práticas e eventos de letramento em meios populares: uma análise das redes sociais de crianças de uma comunidade da periferia da cidade do Recife
+Nos diagnósticos e documentos nor- teadores das políticas públicas de educação, as crianças provenientes de comunidades de baixo poder aquisitivo são comumente associadas à ideia de fracasso escolar. Acreditando que a discussão sobre o letramento só faz sentido se for abordada a partir de con- dições que tornem possível sua com- preensão contextual e não como mais um “modismo educativo”, esta pesqui- sa investigou as práticas e eventos de letramento em uma comunidade da ci- dade do Recife a partir dos momentos de interação das crianças com a escrita, pela ótica de suas redes sociais de pertencimento. A perspectiva metodo- lógica se caracterizou pela aplicação do mapa de redes com as crianças, entre- vista e observações. O reconhecimento das práticas de letramento constitui redefinições nas situações de interação, pois, à medida que as crianças passam a confiar no “outro”, constroem um fator de valoração que as leva a con- siderar que é significativo participar dos eventos em que a leitura e a escrita são cruciais para fazer sentido em suas relações sociais.
+Palavras-chave: redes sociais; letra- mento; meios populares.
+Practices and events of literacy in popular environments: an analysis
+Revista Brasileira de Educação	v. 14	n. 41
+maio/ago. 2009
+391

@@ -1,0 +1,13 @@
+ls
+cd Desktop
+ls
+cd PythonDocs
+%run MichaelAgain.py # This was the dumb file name a called it
+# errors resulted
+# he trys %run MichaelAgain.py several times
+# finally he gets it after making changes in the TextWrangler
+N.set_printoptions(threshold=N.nan)
+numpy.set_printoptions(threshold=N.nan)
+import numpy
+numpy.set_printoptions(threshold=numpy.nan)
+%run MichaelAgain.py
